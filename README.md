@@ -1,2898 +1,2039 @@
 # 📘 GUIA ESTRATÉGICO COMPLETO
-## SAAS PARA MARMORARIAS - DO ZERO AO DOMÍNIO NACIONAL
+## SaaS para Marmorarias - Do Zero ao Domínio Nacional
 
-**Fundador:** Paulo Muniz  
-**Produto:** Sistema Web Completo para Gestão de Marmorarias  
-**Modelo:** SaaS (Software as a Service)  
-**CNAE:** 62.03-1/00 – Desenvolvimento e licenciamento de programas de computador não-customizáveis  
-**Regime Tributário:** Simples Nacional – Anexo III
+<div align="center">
 
----
+![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-blue)
+![Licença](https://img.shields.io/badge/Licen%C3%A7a-Propriet%C3%A1ria-red)
+![Regime](https://img.shields.io/badge/Regime-Simples%20Nacional-green)
 
-## 📋 ÍNDICE
+**Sistema Web Completo para Gestão de Marmorarias**
 
-1. Visão Geral do Negócio
-2. Modelo de Negócio e Precificação
-3. Estrutura Tributária
-4. Estratégia de Desenvolvimento e Propriedade Intelectual
-5. Fases de Crescimento (0 a 8)
-6. Linha do Tempo de Crescimento
-7. Estrutura de Equipe
-8. Planejamento Financeiro (PF x PJ)
-9. Estratégia de Marketing
-10. Infraestrutura e Tecnologia
-11. Processos Operacionais
-12. Indicadores de Performance (KPIs)
-13. Gestão de Riscos
-14. Plano de Contingência
+</div>
 
 ---
 
-## 1. VISÃO GERAL DO NEGÓCIO
+## 📋 Informações do Negócio
+
+```yaml
+Fundador: Paulo Muniz
+Produto: Sistema Web Completo para Gestão de Marmorarias
+Modelo: SaaS (Software as a Service)
+CNAE: 62.03-1/00 – Desenvolvimento e licenciamento de programas de computador não-customizáveis
+Regime Tributário: Simples Nacional – Anexo III
+Tipo de Software: Software Padronizado (Prateleira) - Licença de Uso
+```
+
+---
+
+## 📑 Índice
+
+1. [Visão Geral do Negócio](#1-visão-geral-do-negócio)
+2. [Planos e Precificação](#2-planos-e-precificação)
+3. [Infraestrutura e Isolamento](#3-infraestrutura-e-isolamento)
+4. [Estrutura Tributária e Proteção Legal](#4-estrutura-tributária-e-proteção-legal)
+5. [Contratos e Terminologia Legal](#5-contratos-e-terminologia-legal)
+6. [Estratégia de Desenvolvimento](#6-estratégia-de-desenvolvimento)
+7. [Fases de Crescimento](#7-fases-de-crescimento)
+8. [Linha do Tempo](#8-linha-do-tempo)
+9. [Estrutura de Equipe](#9-estrutura-de-equipe)
+10. [Planejamento Financeiro](#10-planejamento-financeiro)
+11. [Estratégia de Marketing](#11-estratégia-de-marketing)
+12. [Infraestrutura Tecnológica](#12-infraestrutura-tecnológica)
+13. [Processos Operacionais](#13-processos-operacionais)
+14. [KPIs e Métricas](#14-kpis-e-métricas)
+15. [Gestão de Riscos](#15-gestão-de-riscos)
+16. [Plano de Contingência](#16-plano-de-contingência)
+17. [Tabelas de Referência](#17-tabelas-de-referência)
+
+---
+
+## 1. Visão Geral do Negócio
 
 ### 1.1 Proposta de Valor
-Sistema web revolucionário e completo para gestão de marmorarias que resolve problemas reais do setor através de:
-- Gestão de orçamentos e vendas
-- Controle de estoque e materiais
-- Agendamento de instalações
-- Gestão financeira integrada
-- Controle de produção
-- Relacionamento com clientes
+
+Sistema web completo e inteligente para gestão de marmorarias que resolve problemas reais do setor através de:
+
+```
+✅ Gestão de orçamentos e vendas
+✅ Controle de estoque e materiais
+✅ Agendamento de instalações
+✅ Gestão financeira integrada
+✅ Controle de produção
+✅ Relacionamento com clientes
+```
 
 ### 1.2 Mercado-Alvo
-- **Segmento:** Marmorarias de pequeno e médio porte
-- **Geografia Inicial:** Anápolis - GO
-- **Potencial:** Mercado enorme e pouco explorado tecnologicamente
-- **Dor Principal:** Gestão manual, desorganizada e ineficiente
+
+```yaml
+Segmento: Marmorarias de pequeno e médio porte
+Geografia Inicial: Anápolis - GO
+Potencial: Mercado amplo e pouco explorado tecnologicamente
+Dor Principal: Gestão manual, desorganizada e ineficiente
+```
 
 ### 1.3 Diferencial Competitivo
-- Sistema já validado em uso real
-- Desenvolvido por profissional sênior com domínio completo da tecnologia
-- Atendimento próximo e personalizado
-- Preço acessível para o mercado
-- Suporte ágil e eficiente
-- Produto em constante evolução
+
+```
+✅ Sistema já validado em uso real
+✅ Desenvolvido por profissional sênior com domínio completo da tecnologia
+✅ Atendimento próximo e personalizado
+✅ Preço acessível para o mercado
+✅ Suporte ágil e eficiente
+✅ Produto em constante evolução
+✅ Hospedagem isolada por cliente (estabilidade garantida)
+```
 
 ### 1.4 Visão de Longo Prazo
+
 Tornar-se a referência nacional em software para marmorarias, presente nos principais estados brasileiros, com operação escalável e sustentável.
 
 ---
 
-## 2. MODELO DE NEGÓCIO E PRECIFICAÇÃO
+## 2. Planos e Precificação
 
-### 2.1 Estrutura de Receita
-**Mensalidade por Cliente:** R$ 400,00  
-**Modelo:** Recorrente (MRR - Monthly Recurring Revenue)  
-**Incluso:** Hospedagem completa do sistema
+### 2.1 Estrutura de Planos
 
-### 2.2 Estrutura de Custos
-
-#### Custos Variáveis (por cliente)
-- **Imposto (Simples Nacional):** 6% sobre faturamento (até R$ 180k/ano)
-- **Hospedagem:** R$ 35,00/cliente/mês
-
-#### Custos Fixos (Operacionais)
-- **Inteligência Artificial (Produção):** R$ 550,00/mês
-  - Custo único da empresa
-  - Estratégia de produção e desenvolvimento
-  - Ferramenta para acelerar desenvolvimento
-  - Não escala por cliente
-
-### 2.3 Cálculo de Margem (Exemplo com 10 clientes)
-
-**Receita Bruta:** R$ 4.000,00 (10 clientes × R$ 400)
-
-**Custos Variáveis:**
-- Impostos: R$ 240,00 (6%)
-- Hospedagem: R$ 350,00 (10 × R$ 35)
-- **Subtotal Variável:** R$ 590,00
-
-**Custos Fixos:**
-- IA (Produção): R$ 550,00
-
-**Custo Total:** R$ 1.140,00  
-**Lucro Bruto:** R$ 2.860,00  
-**Margem Bruta:** 71,5%
-
-### 2.4 Evolução da Margem por Escala
-
-| Clientes | Receita | Custos Variáveis | Custos Fixos | Lucro | Margem |
-|----------|---------|------------------|--------------|-------|---------|
-| 10 | R$ 4.000 | R$ 590 | R$ 550 | R$ 2.860 | 71,5% |
-| 20 | R$ 8.000 | R$ 1.180 | R$ 550 | R$ 6.270 | 78,4% |
-| 30 | R$ 12.000 | R$ 1.770 | R$ 550 | R$ 9.680 | 80,7% |
-| 50 | R$ 20.000 | R$ 2.950 | R$ 550 | R$ 16.500 | 82,5% |
-| 80 | R$ 32.000 | R$ 4.720 | R$ 550 | R$ 26.730 | 83,5% |
-
-**Observação:** Margem cresce com escala devido aos custos fixos diluídos.
-
-### 2.5 Política de Reajuste
-- **Frequência:** Anual
-- **Índice:** IGPM ou IPCA
-- **Comunicação:** 60 dias de antecedência
-- **Negociação:** Possível para clientes antigos em casos específicos
-
-### 2.6 Estratégia de Precificação
-- **Preço Atual:** Acessível e estratégico para penetração de mercado
-- **Valor Percebido:** Muito superior ao preço cobrado
-- **Reposicionamento Futuro:** Gradual conforme valor agregado aumenta
-- **Meta de Preço (Médio Prazo):** R$ 500 a R$ 600/mês
+> **Importante:** Todos os planos são **COMPLETOS** com todas as funcionalidades. A diferença está apenas no **armazenamento** e **capacidade de processamento** do servidor dedicado.
 
 ---
 
-## 3. ESTRUTURA TRIBUTÁRIA
+#### 📦 PLANO 50 GB
 
-### 3.1 Enquadramento Legal
-**CNAE:** 62.03-1/00 – Desenvolvimento e licenciamento de programas de computador não-customizáveis  
-**Regime:** Simples Nacional – Anexo III  
-**Tipo de Software:** SaaS (Software de Prateleira) - NÃO customizável
+```yaml
+Preço: R$ 399,00/mês
 
-⚠️ **IMPORTANTE:** Não utilizar CNAE de desenvolvimento personalizado, pois a tributação é MAIOR. Como é um SaaS padronizado, o CNAE atual é o correto e mais vantajoso.
+Especificações Técnicas:
+  Armazenamento: 50 GB
+  vCPUs: 3
+  RAM: 3 GB
+  Isolamento: Lógico garantido (servidor dedicado)
 
-### 3.2 Tabela de Alíquotas - Simples Nacional Anexo III
+Incluso:
+  - Sistema completo (todas as funcionalidades)
+  - Usuários ilimitados
+  - Orçamentos ilimitados
+  - Hospedagem isolada
+  - Domínio personalizado (custo inicial R$ 10/ano na primeira mensalidade)
+  - Suporte técnico
+  - Atualizações automáticas coletivas
 
-| Faturamento Anual (12 meses) | Alíquota Nominal |
-|------------------------------|------------------|
-| Até R$ 180.000 | 6,00% |
-| R$ 180.000,01 a R$ 360.000 | 11,20% |
-| R$ 360.000,01 a R$ 720.000 | 13,50% |
-| R$ 720.000,01 a R$ 1.800.000 | 16,00% |
-| R$ 1.800.000,01 a R$ 3.600.000 | 21,00% |
-| R$ 3.600.000,01 a R$ 4.800.000 | 33,00% |
-
-### 3.3 Projeção de Tributação por Fase
-
-**10 clientes (R$ 48.000/ano):** 6,00% = R$ 240/mês  
-**30 clientes (R$ 144.000/ano):** 6,00% = R$ 720/mês  
-**38 clientes (R$ 182.400/ano):** 11,20% = R$ 1.702/mês  
-**60 clientes (R$ 288.000/ano):** 11,20% = R$ 2.688/mês  
-**80 clientes (R$ 384.000/ano):** 13,50% = R$ 4.320/mês  
-**150 clientes (R$ 720.000/ano):** 13,50% = R$ 8.100/mês
-
-### 3.4 Pontos de Atenção Tributária
-- Monitor constante do faturamento acumulado em 12 meses
-- Planejamento para mudança de faixa (impacto no fluxo de caixa)
-- Documentação fiscal rigorosa
-- Emissão de notas fiscais dentro do prazo
-- Separação total PF × PJ
+Ideal para:
+  - Marmorarias iniciantes
+  - Até 3-5 usuários simultâneos
+  - Volume médio de documentos e fotos
+```
 
 ---
 
-## 4. ESTRATÉGIA DE DESENVOLVIMENTO E PROPRIEDADE INTELECTUAL
+#### 📦 PLANO 100 GB
 
-### 4.1 Filosofia de Desenvolvimento
-**Desenvolvedor Único:** Paulo Muniz (Fundador)  
-**Perfil:** Profissional sênior com domínio completo do ciclo de desenvolvimento
+```yaml
+Preço: R$ 499,00/mês
 
-### 4.2 Vantagens Estratégicas da IA no Desenvolvimento
+Especificações Técnicas:
+  Armazenamento: 100 GB
+  vCPUs: 3
+  RAM: 4 GB
+  Isolamento: Lógico garantido (servidor dedicado)
 
-#### 4.2.1 Custo vs Contratação
-**IA (R$ 550/mês):**
-- Disponível 24/7
-- Sem vínculo empregatício
-- Sem encargos trabalhistas
-- Sem férias ou afastamentos
-- Escalável conforme necessidade
+Incluso:
+  - Tudo do Plano 50 GB
+  - Dobro de armazenamento
+  - Mais memória para processamento
 
-**Desenvolvedor CLT (comparativo):**
-- Salário: R$ 4.000 a R$ 8.000
-- Encargos: ~80% sobre salário
-- Custo total: R$ 7.200 a R$ 14.400/mês
-- Risco trabalhista
-- Dependência de terceiros
-
-**Economia anual:** R$ 80.000 a R$ 160.000
-
-#### 4.2.2 Segurança e Propriedade Intelectual
-✅ **Código 100% proprietário**  
-✅ Zero risco de roubo de código  
-✅ Zero risco trabalhista  
-✅ Conhecimento concentrado no fundador  
-✅ Decisões técnicas 100% controladas  
-✅ Velocidade de desenvolvimento mantida  
-✅ Qualidade garantida por experiência sênior
-
-#### 4.2.3 Agilidade e Flexibilidade
-- Mudanças rápidas sem dependência de equipe
-- Implementação imediata de feedback dos clientes
-- Ajustes críticos a qualquer momento
-- Sem processos burocráticos internos
-- Pivôs estratégicos sem complicações
-
-### 4.3 Quando Não Contratar Desenvolvedores
-❌ **NUNCA contratar para desenvolvimento core**  
-❌ **NUNCA compartilhar código-fonte**  
-❌ **NUNCA criar dependência técnica de terceiros**
-
-### 4.4 Proteção da Propriedade Intelectual
-- Código-fonte restrito ao fundador
-- Backup em múltiplas localizações seguras
-- Documentação técnica confidencial
-- Contratos de confidencialidade com todos os stakeholders
-- Registro de marca (quando apropriado)
-
-### 4.5 Sustentabilidade do Modelo
-- Fundador mantém controle total do produto
-- IA acelera sem comprometer segurança
-- Equipe focada em suporte, vendas e operações
-- Desenvolvimento permanece centralizado e seguro
+Ideal para:
+  - Marmorarias em crescimento
+  - Até 5-8 usuários simultâneos
+  - Maior volume de fotos de projetos
+```
 
 ---
 
-## 5. FASES DE CRESCIMENTO ESTRATÉGICO
+#### 📦 PLANO 200 GB
 
-### FASE 0: AGORA - INÍCIO REAL
-**📍 Localização:** Anápolis - GO  
-**📊 Clientes:** 1 a 5  
-**⏱️ Duração:** Imediato  
-**💼 Estrutura:** Home office, fundador solo
+```yaml
+Preço: R$ 599,00/mês
 
-#### Situação Atual
-✅ Sistema já existe e funciona  
-✅ Está em uso real por marmorarias  
-✅ Resolve problemas reais do mercado  
-✅ Produto validado na prática
+Especificações Técnicas:
+  Armazenamento: 200 GB
+  vCPUs: 4
+  RAM: 5 GB
+  Isolamento: Lógico garantido (servidor dedicado)
 
-#### Objetivos
-- Ajustes finos baseados em uso real
-- Estabilizar funcionalidades críticas
-- Criar processo básico de atendimento
-- Documentar primeiros casos de sucesso
-- Organizar base mínima de processos
+Incluso:
+  - Tudo dos planos anteriores
+  - Mais CPU para melhor desempenho
+  - Capacidade para grande volume de dados
 
-#### O que NÃO fazer
-❌ Pensar em escala  
-❌ Contratar pessoas  
-❌ Investir em marketing  
-❌ Expandir geograficamente
+Ideal para:
+  - Marmorarias estabelecidas
+  - Até 10-15 usuários simultâneos
+  - Alto volume de projetos e documentos
+```
+
+---
+
+#### 📦 PLANO 300 GB
+
+```yaml
+Preço: R$ 799,00/mês
+
+Especificações Técnicas:
+  Armazenamento: 300 GB
+  vCPUs: 4
+  RAM: 6 GB
+  Isolamento: Lógico garantido (servidor dedicado)
+
+Incluso:
+  - Tudo dos planos anteriores
+  - Máxima capacidade de armazenamento
+  - Melhor desempenho disponível
+
+Ideal para:
+  - Marmorarias de grande porte
+  - Mais de 15 usuários simultâneos
+  - Histórico extenso de projetos
+  - Grande volume de fotos em alta resolução
+```
+
+---
+
+### 2.2 Resumo Comparativo dos Planos
+
+```
+┌─────────────────┬─────────────┬───────────┬─────────┬─────────────────────────────┐
+│      Plano      │    Preço    │   vCPUs   │   RAM   │       Armazenamento         │
+├─────────────────┼─────────────┼───────────┼─────────┼─────────────────────────────┤
+│     50 GB       │  R$ 399/mês │     3     │  3 GB   │  50 GB                      │
+│    100 GB       │  R$ 499/mês │     3     │  4 GB   │  100 GB                     │
+│    200 GB       │  R$ 599/mês │     4     │  5 GB   │  200 GB                     │
+│    300 GB       │  R$ 799/mês │     4     │  6 GB   │  300 GB                     │
+└─────────────────┴─────────────┴───────────┴─────────┴─────────────────────────────┘
+
+✅ TODOS OS PLANOS INCLUEM:
+   • Sistema completo (todas as funcionalidades)
+   • Usuários ilimitados
+   • Orçamentos ilimitados
+   • Hospedagem isolada (servidor dedicado)
+   • Domínio personalizado
+   • Suporte técnico
+   • Atualizações automáticas coletivas
+```
+
+---
+
+### 2.3 Custos Adicionais
+
+```yaml
+Domínio Personalizado:
+  Custo: ~R$ 10,00/ano
+  Pagamento: Incluído na primeira mensalidade
+  Tipo: Domínio básico individual para cada marmoraria
+  Exemplo: suamarmoraria.sistemamarmor.com.br ou domínio próprio
+```
+
+---
+
+### 2.4 Política de Reajuste
+
+```yaml
+Frequência: Anual
+Índice: IGPM ou IPCA
+Comunicação: 60 dias de antecedência
+Negociação: Possível para clientes antigos em casos específicos
+```
+
+---
+
+## 3. Infraestrutura e Isolamento
+
+### 3.1 Arquitetura de Isolamento Lógico
+
+> **Garantia de Qualidade:** Cada cliente possui seu próprio ambiente isolado. Uma marmoraria que utiliza mais recursos **NÃO interfere** no uptime ou performance de outra.
+
+```
+┌──────────────────────────────────────────────────────────────────┐
+│                    INFRAESTRUTURA CLOUD                          │
+├──────────────────────────────────────────────────────────────────┤
+│                                                                  │
+│   ┌─────────────┐   ┌─────────────┐   ┌─────────────┐           │
+│   │ Marmoraria  │   │ Marmoraria  │   │ Marmoraria  │           │
+│   │     A       │   │     B       │   │     C       │           │
+│   ├─────────────┤   ├─────────────┤   ├─────────────┤           │
+│   │ • 3 vCPUs   │   │ • 3 vCPUs   │   │ • 4 vCPUs   │           │
+│   │ • 3 GB RAM  │   │ • 4 GB RAM  │   │ • 5 GB RAM  │           │
+│   │ • 50 GB SSD │   │ • 100 GB SSD│   │ • 200 GB SSD│           │
+│   │ • Isolado   │   │ • Isolado   │   │ • Isolado   │           │
+│   └─────────────┘   └─────────────┘   └─────────────┘           │
+│         │                 │                 │                   │
+│         └─────────────────┴─────────────────┘                   │
+│                           │                                      │
+│              ┌────────────┴────────────┐                        │
+│              │   BARREIRA DE ISOLAMENTO │                        │
+│              │   (Recursos Dedicados)   │                        │
+│              └─────────────────────────┘                        │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
+```
+
+### 3.2 Benefícios do Isolamento Lógico
+
+```yaml
+Estabilidade Garantida:
+  - Cada cliente tem recursos dedicados (CPU, RAM, Storage)
+  - Picos de uso de um cliente não afetam outros
+  - Uptime independente por instância
+
+Performance Consistente:
+  - Sem concorrência por recursos entre clientes
+  - Velocidade previsível e estável
+  - Processamento garantido conforme plano contratado
+
+Segurança:
+  - Dados completamente isolados
+  - Sem vazamento de informações entre ambientes
+  - Backup individualizado por cliente
+
+Escalabilidade:
+  - Upgrade de plano sem migração complexa
+  - Recursos adicionados sob demanda
+  - Sem downtime para expansão
+```
+
+### 3.3 SLA de Disponibilidade
+
+```yaml
+Uptime Garantido: 99.9% (máximo 43 minutos de indisponibilidade/mês)
+Monitoramento: 24/7 automatizado
+Alertas: Instantâneos via sistema de monitoramento
+Manutenções Programadas: Madrugada, com aviso de 48h de antecedência
+```
+
+---
+
+## 4. Estrutura Tributária e Proteção Legal
+
+### 4.1 Enquadramento Legal
+
+```yaml
+CNAE: 62.03-1/00
+Descrição: Desenvolvimento e licenciamento de programas de computador não-customizáveis
+Regime: Simples Nacional – Anexo III
+Tipo: SaaS (Software de Prateleira) - NÃO customizável
+```
+
+### 4.2 Proteção Contra Fiscalização
+
+> ⚠️ **IMPORTANTE:** O CNAE 62.03-1/00 (licenciamento de software não customizável) oferece **proteção tributária** significativa comparado ao CNAE de desenvolvimento personalizado, que possui tributação MAIOR.
+
+```
+CARACTERÍSTICAS QUE GARANTEM O ENQUADRAMENTO CORRETO:
+
+✅ Software padronizado (igual para todos os clientes)
+✅ Sem customização de código por cliente
+✅ Atualizações coletivas (todos recebem as mesmas)
+✅ Licença de uso (não venda de software)
+✅ Modelo SaaS (acesso via nuvem)
+
+❌ O QUE NÃO FAZEMOS (e não devemos fazer):
+✗ Desenvolvimento sob medida
+✗ Projetos personalizados
+✗ Customização de código individual
+✗ Sistema sob encomenda
+```
+
+### 4.3 Alíquotas - Simples Nacional Anexo III
+
+```
+┌────────────────────────────────────┬───────────────────┐
+│  Faturamento Anual (12 meses)      │ Alíquota Nominal  │
+├────────────────────────────────────┼───────────────────┤
+│  Até R$ 180.000                    │       6,00%       │
+│  R$ 180.000,01 a R$ 360.000        │      11,20%       │
+│  R$ 360.000,01 a R$ 720.000        │      13,50%       │
+│  R$ 720.000,01 a R$ 1.800.000      │      16,00%       │
+│  R$ 1.800.000,01 a R$ 3.600.000    │      21,00%       │
+│  R$ 3.600.000,01 a R$ 4.800.000    │      33,00%       │
+└────────────────────────────────────┴───────────────────┘
+```
+
+### 4.4 Projeção de Tributação por Fase
+
+```yaml
+# Considerando ticket médio de R$ 399/mês
+
+10 clientes (R$ 47.880/ano):
+  Alíquota: 6,00%
+  Imposto Mensal: ~R$ 240
+
+30 clientes (R$ 143.640/ano):
+  Alíquota: 6,00%
+  Imposto Mensal: ~R$ 720
+
+38 clientes (R$ 181.944/ano):
+  Alíquota: 11,20%
+  Imposto Mensal: ~R$ 1.700
+
+60 clientes (R$ 287.280/ano):
+  Alíquota: 11,20%
+  Imposto Mensal: ~R$ 2.680
+
+80 clientes (R$ 383.040/ano):
+  Alíquota: 13,50%
+  Imposto Mensal: ~R$ 4.300
+
+150 clientes (R$ 718.200/ano):
+  Alíquota: 13,50%
+  Imposto Mensal: ~R$ 8.100
+```
+
+---
+
+## 5. Contratos e Terminologia Legal
+
+### 5.1 Terminologia Obrigatória nos Contratos
+
+> ⚠️ **CRÍTICO:** A terminologia utilizada em contratos, propostas e comunicações é fundamental para manter a proteção do CNAE 62.03-1/00.
+
+```yaml
+✅ TERMOS QUE DEVEM SER USADOS:
+  - Licença de uso
+  - Software padronizado
+  - Software de prateleira
+  - Atualizações coletivas
+  - Licenciamento
+  - Assinatura
+  - Mensalidade
+  - Implantação (não desenvolvimento)
+
+❌ TERMOS QUE DEVEM SER EVITADOS:
+  - Desenvolvimento
+  - Sistema sob medida
+  - Customização
+  - Projeto
+  - Software personalizado
+  - Criação de sistema
+  - Desenvolvimento de funcionalidades exclusivas
+```
+
+### 5.2 Estrutura do Contrato de Licença de Uso
+
+```
+CONTRATO DE LICENÇA DE USO DE SOFTWARE
+
+1. OBJETO
+   - Licença de uso de software padronizado para gestão de marmorarias
+   - Software disponibilizado em modelo SaaS (Software as a Service)
+   - Acesso via navegador web
+
+2. CARACTERÍSTICAS DO SOFTWARE
+   - Software de prateleira, não customizável
+   - Funcionalidades padronizadas para todos os licenciados
+   - Atualizações coletivas disponibilizadas automaticamente
+
+3. SERVIÇOS INCLUSOS NA LICENÇA
+   - Hospedagem em ambiente isolado
+   - Suporte técnico para uso do software
+   - Treinamento operacional do sistema
+   - Implantação inicial (configuração de parâmetros)
+
+4. EXCLUSÕES
+   - Não inclui desenvolvimento de funcionalidades exclusivas
+   - Não inclui customização de código-fonte
+   - Não inclui integração com sistemas de terceiros (sob análise)
+
+5. VIGÊNCIA E PAGAMENTO
+   - Licença mensal renovável automaticamente
+   - Pagamento até o dia X de cada mês
+   - Reajuste anual conforme índice IGPM ou IPCA
+```
+
+### 5.3 Treinamento, Suporte e Implantação
+
+```yaml
+Classificação Legal:
+  Treinamento: Não exige outro CNAE (uso do software, não consultoria técnica)
+  Suporte: Incluso na licença (esclarecimento de dúvidas operacionais)
+  Implantação: Configuração inicial do software padronizado
+
+Limites para Não Caracterizar Outro CNAE:
+  ✅ Permitido:
+    - Ensinar a usar o sistema
+    - Configurar parâmetros existentes
+    - Cadastrar dados iniciais
+    - Tirar dúvidas operacionais
+    - Resolver problemas de uso
+  
+  ❌ Não Permitido (caracterizaria outro CNAE):
+    - Consultoria empresarial
+    - Projeto técnico
+    - Auditoria de processos
+    - Desenvolvimento de integrações customizadas
+```
+
+### 5.4 Cláusulas de Proteção Recomendadas
+
+```
+CLÁUSULAS IMPORTANTES NO CONTRATO:
+
+1. NATUREZA DO SOFTWARE
+"O SOFTWARE objeto desta licença é um produto padronizado, 
+disponibilizado nas mesmas condições e funcionalidades para 
+todos os licenciados, não havendo customização de código-fonte 
+ou desenvolvimento de funcionalidades exclusivas."
+
+2. ATUALIZAÇÕES
+"As atualizações do SOFTWARE são disponibilizadas coletivamente 
+a todos os licenciados, sem custo adicional, conforme cronograma 
+definido exclusivamente pelo LICENCIADOR."
+
+3. PROPRIEDADE INTELECTUAL
+"O código-fonte, arquitetura, design e demais elementos do SOFTWARE 
+são de propriedade exclusiva do LICENCIADOR. Esta licença não 
+transfere qualquer direito de propriedade intelectual ao LICENCIADO."
+
+4. SUPORTE TÉCNICO
+"O suporte técnico incluído nesta licença compreende exclusivamente 
+esclarecimentos sobre o uso das funcionalidades existentes do SOFTWARE, 
+não incluindo desenvolvimento, consultoria ou projetos técnicos."
+```
+
+---
+
+## 6. Estratégia de Desenvolvimento
+
+### 6.1 Filosofia de Desenvolvimento
+
+```yaml
+Desenvolvedor: Único (Paulo Muniz - Fundador)
+Perfil: Profissional sênior com domínio completo do ciclo de desenvolvimento
+Modelo: Desenvolvimento interno + IA como ferramenta de produção
+```
+
+### 6.2 Vantagens Estratégicas da IA no Desenvolvimento
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                  COMPARATIVO: IA vs CONTRATAÇÃO                 │
+├────────────────────────────────┬────────────────────────────────┤
+│         IA (R$ 550/mês)        │     Desenvolvedor CLT          │
+├────────────────────────────────┼────────────────────────────────┤
+│ ✅ Disponível 24/7              │ ❌ Horário comercial            │
+│ ✅ Sem vínculo empregatício     │ ❌ CLT/encargos trabalhistas    │
+│ ✅ Sem encargos (~0%)           │ ❌ Encargos ~80% sobre salário  │
+│ ✅ Sem férias ou afastamentos   │ ❌ 30 dias férias + 13º        │
+│ ✅ Escalável conforme necessidade│ ❌ Capacidade fixa             │
+│ ✅ Custo fixo: R$ 550/mês       │ ❌ Custo: R$ 7.200 a R$ 14.400  │
+└────────────────────────────────┴────────────────────────────────┘
+
+💰 ECONOMIA ANUAL: R$ 80.000 a R$ 160.000
+```
+
+### 6.3 Segurança e Propriedade Intelectual
+
+```yaml
+Garantias do Modelo Atual:
+  ✅ Código 100% proprietário
+  ✅ Zero risco de roubo de código
+  ✅ Zero risco trabalhista
+  ✅ Conhecimento concentrado no fundador
+  ✅ Decisões técnicas 100% controladas
+  ✅ Velocidade de desenvolvimento mantida
+  ✅ Qualidade garantida por experiência sênior
+```
+
+### 6.4 Regras Invioláveis de Desenvolvimento
+
+```
+❌ NUNCA FAZER:
+
+   ✗ Contratar desenvolvedores para código core
+   ✗ Compartilhar código-fonte com terceiros
+   ✗ Criar dependência técnica de funcionários
+   ✗ Usar freelancers para desenvolvimento principal
+   ✗ Permitir acesso ao repositório principal
+```
+
+### 6.5 Proteção da Propriedade Intelectual
+
+```yaml
+Medidas de Proteção:
+  - Código-fonte restrito exclusivamente ao fundador
+  - Backup em múltiplas localizações seguras
+  - Documentação técnica confidencial
+  - Contratos de confidencialidade com stakeholders
+  - Registro de marca (INPI) quando apropriado
+  - Repositório privado com acesso único
+  - Versionamento rigoroso com histórico completo
+```
+
+---
+
+## 7. Fases de Crescimento
+
+### FASE 0: INÍCIO REAL
+
+```yaml
+Localização: Anápolis - GO
+Clientes: 1 a 5
+Duração: Imediato
+Estrutura: Home office, fundador solo
+
+Situação Atual:
+  ✅ Sistema já existe e funciona
+  ✅ Está em uso real por marmorarias
+  ✅ Resolve problemas reais do mercado
+  ✅ Produto validado na prática
+
+Objetivos:
+  - Ajustes finos baseados em uso real
+  - Estabilizar funcionalidades críticas
+  - Criar processo básico de atendimento
+  - Documentar primeiros casos de sucesso
+  - Organizar base mínima de processos
+
+⚠️ O QUE NÃO FAZER:
+  ✗ Pensar em escala
+  ✗ Contratar pessoas
+  ✗ Investir em marketing
+  ✗ Expandir geograficamente
+```
 
 ---
 
 ### FASE 1: CONSOLIDAÇÃO INICIAL
-**📍 Localização:** Anápolis - GO  
-**📊 Clientes:** 5 a 10  
-**⏱️ Duração:** 1 a 3 meses  
-**💼 Estrutura:** Home office, fundador solo
 
-#### Foco Principal
-- Atendimento muito próximo e personalizado
-- Treinamento direto com cada cliente
-- Ajustes rápidos baseados em feedback
-- Padronizar processo de implantação
-- Padronizar processo de suporte básico
-- Criar discurso comercial claro e efetivo
+```yaml
+Localização: Anápolis - GO
+Clientes: 5 a 10
+Duração: 1 a 3 meses
+Estrutura: Home office, fundador solo
 
-#### Receita Esperada
-- 10 clientes = R$ 4.000/mês
-- Lucro líquido ≈ R$ 2.860/mês
+Foco Principal:
+  - Atendimento muito próximo e personalizado
+  - Treinamento direto com cada cliente
+  - Ajustes rápidos baseados em feedback
+  - Padronizar processo de implantação
+  - Padronizar processo de suporte básico
+  - Criar discurso comercial claro e efetivo
 
-#### Marcos desta Fase
-✔ Processo de onboarding definido  
-✔ Tempo médio de implantação estabelecido  
-✔ Lista de funcionalidades mais solicitadas  
-✔ Primeira versão de FAQ básico  
-✔ Sistema estável para uso contínuo
+Receita Esperada:
+  - 10 clientes = R$ 3.990/mês
+  - Lucro líquido ≈ R$ 2.800/mês
 
-#### O que NÃO fazer
-❌ Mudar de cidade  
-❌ Pensar em escala ainda  
-❌ Contratar funcionários  
-❌ Alugar escritório
+Marcos:
+  ✔ Processo de onboarding definido
+  ✔ Tempo médio de implantação estabelecido
+  ✔ Lista de funcionalidades mais solicitadas
+  ✔ Primeira versão de FAQ básico
+  ✔ Sistema estável para uso contínuo
+
+⚠️ O QUE NÃO FAZER:
+  ✗ Mudar de cidade
+  ✗ Pensar em escala ainda
+  ✗ Contratar funcionários
+  ✗ Alugar escritório
+```
 
 ---
 
 ### FASE 2: AUTORIDADE LOCAL
-**📍 Localização:** Anápolis - GO  
-**📊 Clientes:** 10 a 30  
-**⏱️ Duração:** +3 a 6 meses (meses 4 a 9)  
-**💼 Estrutura:** Escritório pequeno, fundador + eventual freelancer design
 
-#### Foco Principal
-- Sistema maduro e confiável
-- Vender com segurança e casos reais
-- Construir autoridade local
-- Indicações começam a surgir naturalmente
-- Marketing boca a boca funciona
+```yaml
+Localização: Anápolis - GO
+Clientes: 10 a 30
+Duração: +3 a 6 meses (meses 4 a 9)
+Estrutura: Escritório pequeno, fundador + eventual freelancer design
 
-#### Receita Esperada
-- 20 clientes = R$ 8.000/mês (lucro ≈ R$ 6.270)
-- 30 clientes = R$ 12.000/mês (lucro ≈ R$ 9.680)
+Foco Principal:
+  - Sistema maduro e confiável
+  - Vender com segurança e casos reais
+  - Construir autoridade local
+  - Indicações começam a surgir naturalmente
+  - Marketing boca a boca funciona
 
-#### Marcos desta Fase
-✔ Referência em Anápolis  
-✔ Pelo menos 3 depoimentos fortes  
-✔ Material comercial básico  
-✔ Processo de suporte escalável  
-✔ Primeira sala comercial alugada (a partir de 10 clientes)
+Receita Esperada:
+  - 20 clientes = ~R$ 8.500/mês (lucro ≈ R$ 6.500)
+  - 30 clientes = ~R$ 13.000/mês (lucro ≈ R$ 10.000)
 
-#### Estrutura de Equipe
-- **10 clientes:** Sai do home office → sala simples
-- **15 clientes:** Considera designer PJ presencial
-- **20 clientes:** Designer de marca tempo integral
+Marcos:
+  ✔ Referência em Anápolis
+  ✔ Pelo menos 3 depoimentos fortes
+  ✔ Material comercial básico
+  ✔ Processo de suporte escalável
+  ✔ Primeira sala comercial (a partir de 10 clientes)
 
-#### Investimentos desta Fase
-- Sala comercial básica: R$ 800 a R$ 1.200/mês
-- Designer freelancer pontual: R$ 500 a R$ 1.000 (demanda)
-- Designer PJ tempo integral: R$ 3.000/mês (a partir de 20 clientes)
+Estrutura de Equipe:
+  - 10 clientes: Sai do home office → sala simples
+  - 15 clientes: Considera designer PJ presencial
+  - 20 clientes: Designer de marca tempo integral
+
+Investimentos:
+  - Sala comercial básica: R$ 800 a R$ 1.200/mês
+  - Designer freelancer pontual: R$ 500 a R$ 1.000 (demanda)
+  - Designer PJ tempo integral: R$ 3.000/mês (a partir de 20 clientes)
+```
 
 ---
 
 ### FASE 3: DOMÍNIO REGIONAL
-**📍 Localização:** Anápolis - GO  
-**📊 Clientes:** 30 a 50  
-**⏱️ Duração:** +3 a 6 meses (meses 10 a 15)  
-**💼 Estrutura:** Escritório para 2-3 pessoas
 
-#### Foco Principal
-- Receita recorrente já relevante
-- Sistema muito estável
-- Documentar absolutamente tudo
-- Preparar infraestrutura para escala
+```yaml
+Localização: Anápolis - GO
+Clientes: 30 a 50
+Duração: +3 a 6 meses (meses 10 a 15)
+Estrutura: Escritório para 2-3 pessoas
 
-#### Receita Esperada
-- 40 clientes = R$ 16.000/mês (lucro ≈ R$ 13.450)
-- 50 clientes = R$ 20.000/mês (lucro ≈ R$ 16.500)
+Foco Principal:
+  - Receita recorrente já relevante
+  - Sistema muito estável
+  - Documentar absolutamente tudo
+  - Preparar infraestrutura para escala
 
-#### Marcos desta Fase
-✔ Documentação completa de processos  
-✔ Playbook de implantação  
-✔ Playbook de suporte  
-✔ Base de conhecimento interna  
-✔ Fluxos de trabalho definidos
+Receita Esperada:
+  - 40 clientes = ~R$ 17.000/mês (lucro ≈ R$ 13.500)
+  - 50 clientes = ~R$ 21.000/mês (lucro ≈ R$ 17.000)
 
-#### Estrutura de Equipe
-- **45 clientes:** Contratar 1º funcionário de SUPORTE
-  - Atendimento ao cliente
-  - Suporte técnico básico
-  - Treinamento e implantação
-  - Reduz carga operacional do fundador
+Marcos:
+  ✔ Documentação completa de processos
+  ✔ Playbook de implantação
+  ✔ Playbook de suporte
+  ✔ Base de conhecimento interna
+  ✔ Fluxos de trabalho definidos
 
-#### Planejamento Estratégico
-⚠️ **Aqui você PLANEJA Goiânia**  
-- Pesquisa de mercado em Goiânia
-- Avaliação de custos de mudança
-- Análise de escritórios
-- Planejamento logístico
+Estrutura de Equipe:
+  - 45 clientes: Contratar 1º funcionário de SUPORTE
+    • Atendimento ao cliente
+    • Suporte técnico básico
+    • Treinamento e implantação
+    • Reduz carga operacional do fundador
 
-⚠️ **Ainda NÃO muda a sede**
+Planejamento Estratégico:
+  ⚠️ AQUI VOCÊ PLANEJA GOIÂNIA
+    - Pesquisa de mercado em Goiânia
+    - Avaliação de custos de mudança
+    - Análise de escritórios
+    - Planejamento logístico
+  
+  ⚠️ AINDA NÃO MUDA A SEDE
+```
 
 ---
 
 ### FASE 4: MARCO CRÍTICO - A VIRADA
-**📍 Localização:** MUDANÇA ESTRATÉGICA  
-**📊 Clientes:** 50 a 80  
-**⏱️ Duração:** +3 a 6 meses (meses 16 a 21)  
-**💼 Estrutura:** Sede em Goiânia + Escritório em Anápolis
 
-#### 🔄 MUDANÇA CRÍTICA: SEDE VAI PARA GOIÂNIA
+```yaml
+Localização: MUDANÇA ESTRATÉGICA
+Clientes: 50 a 80
+Duração: +3 a 6 meses (meses 16 a 21)
+Estrutura: Sede em Goiânia + Escritório em Anápolis
+```
 
-**Nova Estrutura:**
-- **Goiânia - GO:** SEDE PRINCIPAL
-- **Anápolis - GO:** ESCRITÓRIO REGIONAL (antiga sede)
+```
+🔄 MUDANÇA CRÍTICA: SEDE VAI PARA GOIÂNIA
 
-#### Por que Goiânia?
-✅ Maior mercado de marmorarias  
-✅ Mais mão de obra qualificada  
-✅ Ecossistema de tecnologia mais desenvolvido  
-✅ Melhor visão e alcance nacional  
-✅ Cidade estratégica para crescimento  
-✅ Infraestrutura superior
+Nova Estrutura:
+┌────────────────────────────────────────────────┐
+│  GOIÂNIA - GO        │  ANÁPOLIS - GO         │
+│  ═══════════════     │  ════════════════      │
+│  SEDE PRINCIPAL      │  ESCRITÓRIO REGIONAL   │
+│  • Fundador          │  • Suporte local       │
+│  • Desenvolvimento   │  • Clientes existentes │
+│  • Estratégia        │  • Presencial quando   │
+│  • Designer          │    necessário          │
+└────────────────────────────────────────────────┘
+```
 
-#### Anápolis após a mudança
-✅ Continua ativa e importante  
-✅ Mantém todos os clientes locais  
-✅ Funcionário local para suporte presencial  
-✅ Escritório regional estratégico
+```yaml
+Por que Goiânia:
+  ✅ Maior mercado de marmorarias
+  ✅ Mais mão de obra qualificada
+  ✅ Ecossistema de tecnologia mais desenvolvido
+  ✅ Melhor visão e alcance nacional
+  ✅ Cidade estratégica para crescimento
+  ✅ Infraestrutura superior
 
-#### Receita Esperada
-- 60 clientes = R$ 24.000/mês (lucro ≈ R$ 19.770)
-- 80 clientes = R$ 32.000/mês (lucro ≈ R$ 26.730)
+Anápolis após mudança:
+  ✅ Continua ativa e importante
+  ✅ Mantém todos os clientes locais
+  ✅ Funcionário local para suporte presencial
+  ✅ Escritório regional estratégico
 
-#### Marcos desta Fase
-✔ Mudança de sede executada com sucesso  
-✔ Operação dual funcionando (Goiânia + Anápolis)  
-✔ Processos 100% remotos estabelecidos  
-✔ Equipe mínima estruturada  
-✔ Sistema pronto para expansão nacional
+Receita Esperada:
+  - 60 clientes = ~R$ 25.500/mês (lucro ≈ R$ 20.500)
+  - 80 clientes = ~R$ 34.000/mês (lucro ≈ R$ 28.000)
 
-#### Estrutura de Equipe
-- Fundador em Goiânia (desenvolvimento + estratégia)
-- 1 Suporte em Goiânia ou remoto
-- Designer em Goiânia (presencial)
-- Eventual suporte local em Anápolis
+Marcos:
+  ✔ Mudança de sede executada com sucesso
+  ✔ Operação dual funcionando (Goiânia + Anápolis)
+  ✔ Processos 100% remotos estabelecidos
+  ✔ Equipe mínima estruturada
+  ✔ Sistema pronto para expansão nacional
 
-#### Investimentos desta Fase
-- Escritório em Goiânia: R$ 1.500 a R$ 2.500/mês
-- Manutenção escritório Anápolis: R$ 800 a R$ 1.200/mês
-- Infraestrutura duplicada
+Investimentos:
+  - Escritório em Goiânia: R$ 1.500 a R$ 2.500/mês
+  - Manutenção escritório Anápolis: R$ 800 a R$ 1.200/mês
+```
+
+---
 
 ### FASE 5: GOIÁS + DISTRITO FEDERAL
-**📍 Sede:** Goiânia - GO  
-**📍 Escritório:** Anápolis - GO  
-**📊 Clientes:** 80 a 120  
-**⏱️ Duração:** +3 a 6 meses (meses 22 a 27)  
-**💼 Estrutura:** Sede consolidada + escritório regional
 
-#### Foco Principal
-- Expansão para todo o estado de Goiás
-- Entrada no Distrito Federal
-- Suporte majoritariamente remoto
-- Presencial apenas quando estratégico
+```yaml
+Sede: Goiânia - GO
+Escritório: Anápolis - GO
+Clientes: 80 a 120
+Duração: +3 a 6 meses (meses 22 a 27)
+Estrutura: Sede consolidada + escritório regional
 
-#### Cidades-Alvo
-- Goiânia (consolidação)
-- Aparecida de Goiânia
-- Senador Canedo
-- Trindade
-- Interior de Goiás (Luziânia, Formosa, Catalão, Rio Verde)
-- Brasília - DF
-- Cidades satélites do DF
+Foco Principal:
+  - Expansão para todo o estado de Goiás
+  - Entrada no Distrito Federal
+  - Suporte majoritariamente remoto
+  - Presencial apenas quando estratégico
 
-#### Receita Esperada
-- 100 clientes = R$ 40.000/mês (lucro ≈ R$ 33.900)
-- 120 clientes = R$ 48.000/mês (lucro ≈ R$ 40.880)
+Cidades-Alvo:
+  - Goiânia (consolidação)
+  - Aparecida de Goiânia
+  - Senador Canedo
+  - Trindade
+  - Interior de Goiás (Luziânia, Formosa, Catalão, Rio Verde)
+  - Brasília - DF
+  - Cidades satélites do DF
 
-#### Marcos desta Fase
-✔ Presença consolidada em todo Goiás  
-✔ Primeiros clientes no DF  
-✔ Operação remota validada  
-✔ Processos de vendas digitais funcionando  
-✔ Marketing digital estruturado
+Receita Esperada:
+  - 100 clientes = ~R$ 42.500/mês (lucro ≈ R$ 35.500)
+  - 120 clientes = ~R$ 51.000/mês (lucro ≈ R$ 43.000)
 
-#### Estrutura de Equipe
-- Fundador: Desenvolvimento + Estratégia
-- 1-2 Suporte/Implantação
-- 1 Designer de Marca
-- 1 Comercial/SDR (prospecção ativa)
-- Eventual escritório tributário mensal
+Marcos:
+  ✔ Presença consolidada em todo Goiás
+  ✔ Primeiros clientes no DF
+  ✔ Operação remota validada
+  ✔ Processos de vendas digitais funcionando
+  ✔ Marketing digital estruturado
+
+Estrutura de Equipe:
+  - Fundador: Desenvolvimento + Estratégia
+  - 1-2 Suporte/Implantação
+  - 1 Designer de Marca
+  - 1 Comercial/SDR (prospecção ativa)
+  - Eventual escritório tributário mensal
+```
 
 ---
 
 ### FASE 6: PRIMEIRO ESTADO FORA
-**📍 Sede:** Goiânia - GO  
-**📍 Escritórios:** Anápolis - GO + Curitiba - PR  
-**📊 Clientes:** 120 a 180  
-**⏱️ Duração:** +6 meses (meses 28 a 33)  
-**💼 Estrutura:** Multi-regional
 
-#### 🎯 POR QUE CURITIBA?
-✅ Grande concentração de marmorarias  
-✅ Mercado de construção civil forte  
-✅ Cidade tecnológica e receptiva a SaaS  
-✅ Logística e infraestrutura excelentes  
-✅ Perfil de cliente alinhado ao produto  
+```yaml
+Sede: Goiânia - GO
+Escritórios: Anápolis - GO + Curitiba - PR
+Clientes: 120 a 180
+Duração: +6 meses (meses 28 a 33)
+Estrutura: Multi-regional
+```
+
+```
+🎯 POR QUE CURITIBA?
+
+✅ Grande concentração de marmorarias
+✅ Mercado de construção civil forte
+✅ Cidade tecnológica e receptiva a SaaS
+✅ Logística e infraestrutura excelentes
+✅ Perfil de cliente alinhado ao produto
 ✅ Potencial de crescimento alto
+```
 
-#### Modelo de Entrada
-**Escritório Pequeno:**
-- Não precisa ser sede
-- Espaço para 1-2 pessoas
-- Endereço comercial para credibilidade local
+```yaml
+Modelo de Entrada:
+  Escritório Pequeno:
+    - Não precisa ser sede
+    - Espaço para 1-2 pessoas
+    - Endereço comercial para credibilidade local
+  
+  Equipe Local:
+    - 1 Representante Técnico/Comercial
+      • Faz vendas
+      • Faz implantação presencial
+      • Dá suporte local
+      • Vira "rosto" da empresa na região
+  
+  Suporte:
+    - Híbrido (remoto + presencial)
+    - Remoto como padrão
+    - Presencial para fechamento e implantação
 
-**Equipe Local:**
-- 1 Representante Técnico/Comercial
-  - Faz vendas
-  - Faz implantação presencial
-  - Dá suporte local
-  - Vira "rosto" da empresa na região
+Estratégia de Entrada:
+  1. Marketing digital focado em Curitiba (2-3 meses antes)
+  2. Captação de 5-10 clientes remotamente
+  3. Abertura de escritório após validação
+  4. Contratação de representante local
+  5. Crescimento acelerado com presença física
 
-**Suporte:**
-- Híbrido (remoto + presencial)
-- Remoto como padrão
-- Presencial para fechamento e implantação
+Receita Esperada:
+  - 150 clientes = ~R$ 63.750/mês (lucro ≈ R$ 54.000)
+  - 180 clientes = ~R$ 76.500/mês (lucro ≈ R$ 65.000)
 
-#### Estratégia de Entrada
-1. Marketing digital focado em Curitiba (2-3 meses antes)
-2. Captação de 5-10 clientes remotamente
-3. Abertura de escritório após validação
-4. Contratação de representante local
-5. Crescimento acelerado com presença física
-
-#### Receita Esperada
-- 150 clientes = R$ 60.000/mês (lucro ≈ R$ 51.350)
-- 180 clientes = R$ 72.000/mês (lucro ≈ R$ 61.820)
-
-#### Marcos desta Fase
-✔ Primeiro estado fora de Goiás  
-✔ Modelo de expansão validado  
-✔ Escritório regional funcionando  
-✔ Processos replicáveis testados  
-✔ Base para expansão nacional
+Marcos:
+  ✔ Primeiro estado fora de Goiás
+  ✔ Modelo de expansão validado
+  ✔ Escritório regional funcionando
+  ✔ Processos replicáveis testados
+  ✔ Base para expansão nacional
+```
 
 ---
 
 ### FASE 7: ENTRADA EM SÃO PAULO
-**📍 Sede:** Goiânia - GO  
-**📍 Escritórios:** Anápolis - GO, Curitiba - PR, Campinas - SP  
-**📊 Clientes:** 180 a 250  
-**⏱️ Duração:** +6 a 9 meses (meses 34 a 42)  
-**💼 Estrutura:** Nacional emergente
 
-#### 🎯 POR QUE CAMPINAS (NÃO SÃO PAULO CAPITAL)?
-✅ Custo operacional menor que capital  
-✅ Polo industrial forte (construção civil ativa)  
-✅ Acesso fácil a toda região metropolitana  
-✅ Mercado grande e concentrado  
-✅ Menos concorrência inicial  
+```yaml
+Sede: Goiânia - GO
+Escritórios: Anápolis - GO, Curitiba - PR, Campinas - SP
+Clientes: 180 a 250
+Duração: +6 a 9 meses (meses 34 a 42)
+Estrutura: Nacional emergente
+```
+
+```
+🎯 POR QUE CAMPINAS (NÃO SÃO PAULO CAPITAL)?
+
+✅ Custo operacional menor que capital
+✅ Polo industrial forte (construção civil ativa)
+✅ Acesso fácil a toda região metropolitana
+✅ Mercado grande e concentrado
+✅ Menos concorrência inicial
 ✅ Base para expansão no estado
+```
 
-#### Estratégia São Paulo
-**Fase 1 - Campinas:**
-- Entrada controlada
-- Validação do mercado paulista
-- Construção de casos de sucesso
+```yaml
+Estratégia São Paulo:
+  Fase 1 - Campinas:
+    - Entrada controlada
+    - Validação do mercado paulista
+    - Construção de casos de sucesso
+  
+  Fase 2 - Interior Paulista:
+    - Ribeirão Preto
+    - São José dos Campos
+    - Sorocaba
+    - Santos (litoral)
+  
+  Fase 3 - Capital (futuro):
+    - Apenas após dominar interior
+    - Exige estrutura maior
+    - Mercado mais competitivo
 
-**Fase 2 - Interior Paulista:**
-- Ribeirão Preto
-- São José dos Campos
-- Sorocaba
-- Santos (litoral)
+Receita Esperada:
+  - 200 clientes = ~R$ 85.000/mês (lucro ≈ R$ 72.000)
+  - 250 clientes = ~R$ 106.250/mês (lucro ≈ R$ 91.000)
 
-**Fase 3 - Capital (futuro):**
-- Apenas após dominar interior
-- Exige estrutura maior
-- Mercado mais competitivo
-
-#### Modelo de Operação
-- Replica modelo de Curitiba
-- Escritório pequeno inicial
-- 1 Representante Técnico/Comercial
-- Crescimento gradual e sustentável
-
-#### Receita Esperada
-- 200 clientes = R$ 80.000/mês (lucro ≈ R$ 68.850)
-- 250 clientes = R$ 100.000/mês (lucro ≈ R$ 86.350)
-
-#### Marcos desta Fase
-✔ Entrada no maior mercado do Brasil  
-✔ Três estados ativos  
-✔ Operação nacional consolidada  
-✔ Marca reconhecida regionalmente
+Marcos:
+  ✔ Entrada no maior mercado do Brasil
+  ✔ Três estados ativos
+  ✔ Operação nacional consolidada
+  ✔ Marca reconhecida regionalmente
+```
 
 ---
 
 ### FASE 8: CONSOLIDAÇÃO NACIONAL
-**📍 Sede Principal:** Goiânia - GO  
-**📍 Escritórios Regionais:**
-- Anápolis - GO
-- Curitiba - PR
-- Campinas - SP
-- Joinville ou Florianópolis - SC
-- Belo Horizonte - MG (potencial)
-- Fortaleza - CE (potencial)
 
-**📊 Clientes:** 250+  
-**⏱️ Duração:** Contínuo  
-**💼 Estrutura:** Nacional consolidada
-
-#### Modelo Nacional Estabelecido
-
-**SEDE CENTRAL (Goiânia):**
-- Desenvolvimento (Fundador)
-- Estratégia e planejamento
-- Marketing central
-- Financeiro
-- RH
-- Tecnologia e infraestrutura
-
-**ESCRITÓRIOS REGIONAIS:**
-- Vendas locais
-- Suporte presencial
-- Implantação
-- Relacionamento com clientes
-- Representação regional da marca
-
-**MODELO DE ATENDIMENTO:**
-- Remoto como padrão (80%)
-- Presencial quando necessário (20%)
-- Equipe local conhece particularidades regionais
-
-#### Próximos Estados Prioritários
-
-**Santa Catarina:**
-- Joinville (polo industrial)
-- Florianópolis (capital, tecnologia)
-- Blumenau
-
-**Minas Gerais:**
-- Belo Horizonte
-- Região metropolitana
-- Triângulo Mineiro
-
-**Nordeste:**
-- Fortaleza - CE (porta de entrada)
-- Recife - PE
-- Salvador - BA
-
-#### Receita Esperada
-- 300 clientes = R$ 120.000/mês
-- 400 clientes = R$ 160.000/mês
-- 500 clientes = R$ 200.000/mês
-
-#### Características desta Fase
-✔ Empresa nacionalmente reconhecida  
-✔ Operação multi-regional eficiente  
-✔ Processos 100% padronizados  
-✔ Equipe distribuída e autônoma  
-✔ Marca forte no setor  
-✔ Crescimento sustentável e lucrativo
-
----
-
-## 6. LINHA DO TEMPO DE CRESCIMENTO
-
-### 6.1 Situação Atual (Mês 0)
-- 1 cliente ativo
-- Trabalho solo (home office)
-- Foco total: desenvolvimento + validação
-- Receita: R$ 400/mês
-
----
-
-### 6.2 META 1: 10 CLIENTES
-**⏱️ Prazo:** 4 a 5 semanas  
-**📈 Ritmo:** 2 clientes por semana  
-**💰 Receita:** R$ 4.000/mês  
-**💵 Lucro:** ~R$ 2.860/mês
-
-#### Ações
-✔ Validar sistema no uso real  
-✔ Ajustar funcionalidades com feedback  
-✔ Estruturar processo básico de suporte  
-✔ Continuar trabalhando sozinho
-
-#### Decisão Crítica
-🏢 **Alugar sala comercial em Anápolis**
-- Sair do home office
-- Dedicar 100% ao negócio
-- Ambiente profissional
-
----
-
-### 6.3 META 2: 25 CLIENTES
-**⏱️ Prazo:** ~3 meses (acumulado)  
-**💰 Receita:** R$ 10.000/mês  
-**💵 Lucro:** ~R$ 8.610/mês
-
-#### Ações
-✔ Padronizar atendimento e suporte  
-✔ Criar documentação básica (FAQ, guias)  
-✔ Automatizar processos repetitivos  
-✔ Ainda sem funcionários (estrutura enxuta)
-
-#### Estrutura
-- Sala comercial em Anápolis
-- Operação solo eficiente
-- Processos definidos
-
----
-
-### 6.4 META 3: 45-50 CLIENTES
-**⏱️ Prazo:** 5 a 6 meses (acumulado)  
-**💰 Receita:** R$ 18.000 a R$ 20.000/mês  
-**💵 Lucro:** ~R$ 15.080 a R$ 16.500/mês
-
-#### Decisão Estratégica Crítica
-👤 **CONTRATAR 1º FUNCIONÁRIO - SUPORTE**
-
-**Perfil:**
-- Atendimento ao cliente
-- Suporte técnico básico
-- Treinamento de novos clientes
-- Implantação do sistema
-
-**Por quê contratar agora?**
-- Carga operacional alta
-- Fundador precisa focar em desenvolvimento
-- Reduz risco de burnout
-- Mantém qualidade do atendimento
-- Libera tempo para estratégia
-
-**Por quê NÃO é desenvolvedor?**
-- Código permanece seguro
-- Propriedade intelectual protegida
-- Sem risco de dependência técnica
-
----
-
-### 6.5 META 4: 80 CLIENTES
-**⏱️ Prazo:** 9 a 10 meses (acumulado)  
-**💰 Receita:** R$ 32.000/mês  
-**💵 Lucro:** ~R$ 26.730/mês
-
-#### Situação da Empresa
-✔ Sistema validado e maduro  
-✔ Suporte funcionando bem  
-✔ Fundador focado em produto e estratégia  
-✔ Operação escalável
-
-#### 🔄 MUDANÇA ESTRATÉGICA CRÍTICA
-**SEDE PASSA PARA GOIÂNIA**
-
-**Estrutura:**
-- Goiânia: SEDE PRINCIPAL
-- Anápolis: ESCRITÓRIO REGIONAL
-
-**Equipe:**
-- Fundador em Goiânia
-- 1-2 Suporte (pode ser remoto)
-- 1 Designer de marca
-- Operação organizada
-
----
-
-### 6.6 FASE DE EXPANSÃO: 100+ CLIENTES
-**⏱️ Prazo:** 12 a 15 meses (acumulado)  
-**💰 Receita:** R$ 40.000+/mês
-
-#### Estratégia de Expansão por Cidade/Estado
-
-**Modelo:**
-1. Marketing digital focado na cidade-alvo
-2. Captação inicial (10-15 clientes remotos)
-3. Validação do mercado local
-4. Abertura de escritório pequeno
-5. Contratação de 1 representante local
-6. Crescimento acelerado
-
-**Sequência de Expansão:**
-1. Goiás completo + DF (meses 12-15)
-2. Curitiba - PR (meses 16-21)
-3. Campinas - SP (meses 22-30)
-4. Santa Catarina (meses 31-36)
-5. Outros estados (conforme demanda)
-
----
-
-### 6.7 Resumo da Linha do Tempo
-
-| Prazo | Meta | Receita/Mês | Evento Principal |
-|-------|------|-------------|------------------|
-| Agora | 1 cliente | R$ 400 | Home office |
-| 1 mês | 10 clientes | R$ 4.000 | Aluga sala |
-| 3 meses | 25 clientes | R$ 10.000 | Processos padronizados |
-| 6 meses | 50 clientes | R$ 20.000 | 1º funcionário (suporte) |
-| 10 meses | 80 clientes | R$ 32.000 | Muda sede para Goiânia |
-| 12 meses | 100 clientes | R$ 40.000 | Domínio regional GO+DF |
-| 18 meses | 150 clientes | R$ 60.000 | 1º estado fora (Curitiba) |
-| 24 meses | 200 clientes | R$ 80.000 | Entrada SP (Campinas) |
-| 30 meses | 250+ clientes | R$ 100.000+ | Consolidação nacional |
-
----
-
-### 6.8 Velocidade de Crescimento
-
-**Fase Inicial (0-50 clientes):**
-- ~2 clientes/semana (crescimento linear)
-- Crescimento orgânico + indicação
-
-**Fase Intermediária (50-120 clientes):**
-- ~2-3 clientes/semana
-- Marketing digital estruturado
-- Processos otimizados
-
-**Fase Expansão (120+ clientes):**
-- ~3-5 clientes/semana
-- Múltiplas regiões
-- Equipe comercial ativa
-- Marca consolidada
-
-## 7. ESTRUTURA DE EQUIPE - CONTRATAÇÕES ESTRATÉGICAS
-
-### 7.1 Princípios Fundamentais
-✅ Contratar apenas quando absolutamente necessário  
-✅ Nunca contratar desenvolvedores (segurança do código)  
-✅ PJ > CLT (flexibilidade e custos menores)  
-✅ Presencial quando agrega valor real  
-✅ Cada contratação deve pagar a si mesma
-
----
-
-### 7.2 DESIGNER - LINHA DO TEMPO COMPLETA
-
-#### FASE 0-1: INÍCIO (1 a 4 CLIENTES)
-**Status:** Home office, fundador solo  
-**Designer:** ❌ NÃO  
-**Alternativa:** Ajustes visuais básicos pelo fundador  
-**Foco:** Produto funcionando
-
----
-
-#### FASE 1: VALIDAÇÃO (5 a 9 CLIENTES)
-**Receita:** R$ 2.000 a R$ 3.600/mês  
-**Designer Fixo:** ❌ NÃO  
-**Designer Pontual (Freelancer):** ✅ SIM (se necessário)
-
-**Escopo Freelancer:**
-- Logo básico
-- Pequenos ajustes visuais
-- Material comercial simples
-
-**Investimento:** R$ 300 a R$ 800 (pontual)  
-**Foco:** Fechar 10 clientes e validar sistema
-
----
-
-#### FASE 2: PRIMEIRO MARCO (10 CLIENTES)
-**Receita:** R$ 4.000/mês  
-**Lucro:** ~R$ 2.860/mês  
-**Estrutura:** Sala simples
-
-**Designer Tempo Integral:** ❌ NÃO  
-**Designer CLT:** ❌ NÃO  
-**Designer Pontual:** ✅ SIM
-
-**Escopo:**
-- Identidade visual inicial
-- Redes sociais básicas
-- Material de vendas
-
-**Investimento:** R$ 500 a R$ 1.000/mês (demanda)
-
----
-
-#### FASE 3: PREPARAÇÃO PARA ESCALA (15 CLIENTES)
-**Receita:** R$ 6.000/mês  
-**Lucro:** ~R$ 5.100/mês  
-**Estrutura:** Escritório para 2 pessoas
-
-**🎯 DESIGNER PJ PRESENCIAL - TEMPO INTEGRAL**
-
-**Por quê agora?**
-- Receita aguenta (R$ 3.000 de custo)
-- Marca precisa se profissionalizar
-- UX do sistema precisa melhorar
-- Marketing digital precisa começar
-- Imagem da empresa é crítica para escala
-
-**Perfil:**
-- Designer de Marca
-- UX/UI
-- Marketing visual
-- Criação de conteúdo
-
-**Regime:** PJ (R$ 3.000/mês)  
-**Local:** Presencial (fundamental)
-
----
-
-#### FASE 4: NEGÓCIO SÓLIDO (20 CLIENTES)
-**Receita:** R$ 8.000/mês  
-**Lucro:** ~R$ 6.800/mês
-
-**✅ DESIGNER DE MARCA - TEMPO INTEGRAL CONSOLIDADO**
-
-**Responsabilidades:**
-- Dono da identidade visual
-- UX e UI do sistema
-- Comunicação da marca
-- Gestão de redes sociais
-- Material de vendas e marketing
-- Participação estratégica no produto
-- Apresentações comerciais
-
-**Status:** Deixa de ser custo, vira ATIVO estratégico  
-**Regime:** PJ consolidado
-
----
-
-#### FASE 5: ESCALA REGIONAL (40 CLIENTES)
-**Receita:** R$ 16.000/mês  
-**Estrutura:** Consolidada
-
-**Designer:**
-- Mantém tempo integral
-- Pode assumir liderança criativa
-- Padroniza marca para outras cidades
-- Prepara materiais para expansão nacional
-
-**Avaliação:**
-- Considerar CLT (opcional, se fizer sentido)
-- Ou manter PJ com benefícios extras
-
----
-
-#### FASE 6: ESCALA NACIONAL (80+ CLIENTES)
-**Receita:** R$ 32.000+/mês
-
-**Designer:**
-- Pode virar CLT se estratégico
-- Pode liderar equipe de design (futuro)
-- Cria padrão nacional da marca
-- Atua como cabeça estratégica de marca
-
----
-
-### 7.3 SUPORTE/ATENDIMENTO - LINHA DO TEMPO
-
-#### 1 a 44 CLIENTES
-**Suporte:** ❌ NÃO contratar  
-**Responsável:** Fundador (sozinho)  
-**Estratégia:** Processos automatizados e eficientes
-
----
-
-#### 45-50 CLIENTES - 1ª CONTRATAÇÃO
-**🎯 1º FUNCIONÁRIO: SUPORTE**
-
-**Por quê agora?**
-- Volume alto de atendimento
-- Fundador sobrecarregado
-- Risco de burnout
-- Qualidade pode cair
-- Desenvolvimento precisa de foco
-
-**Perfil:**
-- Atendimento ao cliente
-- Suporte técnico básico (não código)
-- Treinamento de clientes
-- Implantação do sistema
-- Resolução de dúvidas operacionais
-
-**Regime:** PJ ou CLT (avaliar caso a caso)  
-**Salário:** R$ 2.500 a R$ 3.500/mês  
-**Local:** Presencial ou remoto (flexível)
-
-**Impacto:**
-- Fundador volta a focar em desenvolvimento
-- Qualidade de atendimento mantida
-- Escalabilidade garantida
-
----
-
-#### 80-100 CLIENTES
-**Equipe de Suporte:**
-- 2 pessoas de suporte
-- 1 coordenador/líder de suporte (pode ser o primeiro contratado)
-
----
-
-#### 150+ CLIENTES
-**Estrutura de Suporte:**
-- Equipe de 3-4 pessoas
-- 1 Coordenador de Suporte
-- Suporte em múltiplos turnos
-- Nível 1 (básico) e Nível 2 (avançado)
-
----
-
-### 7.4 COMERCIAL/VENDAS - LINHA DO TEMPO
-
-#### 1 a 80 CLIENTES
-**Vendas:** Fundador  
-**Estratégia:** Orgânico + indicação + marketing digital básico  
-**Investimento em Ads:** Gradual conforme ROI
-
----
-
-#### 80-100 CLIENTES
-**🎯 1º COMERCIAL: SDR/CLOSER**
-
-**Perfil:**
-- Prospecção ativa
-- Fechamento de vendas
-- Demonstrações do sistema
-- Follow-up comercial
-
-**Regime:** PJ + comissões  
-**Remuneração:** Fixo (R$ 2.500) + Variável (5-10% por venda)
-
----
-
-#### 150+ CLIENTES
-**Estrutura Comercial:**
-- 1 Coordenador Comercial
-- 2-3 Vendedores/SDRs
-- Processo comercial estruturado
-- Funil de vendas otimizado
-
----
-
-### 7.5 ADVOCACIA - LINHA DO TEMPO
-
-#### 1 a 9 CLIENTES
-**Advogado Fixo:** ❌ NÃO  
-**Advogado Pontual:** ✅ SIM (sob demanda)
-
-**Escopo:**
-- Contrato SaaS básico
-- Termos de uso
-- Política de privacidade (LGPD)
-
-**Custo:** Pagamento único (R$ 1.500 a R$ 3.000)
-
----
-
-#### 10 a 19 CLIENTES
-**Advogado Mensal:** ❌ NÃO (ainda)  
-**Advogado Pontual:** ✅ Continua
-
-**Escopo:**
-- Ajustes contratuais
-- Revisões se mudar preço
-- Dúvidas pontuais
-
----
-
-#### 20 CLIENTES EM DIANTE
-**🎯 ESCRITÓRIO DE ADVOCACIA MENSAL**
-
-**Valor:** R$ 600 a R$ 900/mês
-
-**Responsabilidades:**
-- Contratos SaaS
-- Reajustes de preço
-- LGPD completo
-- Notificações legais
-- Cobrança extrajudicial
-- Consultoria preventiva
-
-**Por quê agora?**
-- Receita aguenta (R$ 8.000/mês)
-- Empresa começa a escalar
-- Riscos jurídicos aumentam
-- Prevenção é mais barata que processo
-
----
-
-#### 40+ CLIENTES
-**Escritório Mensal:** Mantém e expande
-
-**Escopo adicional:**
-- Contratos com representantes
-- Escritórios regionais
-- Parcerias comerciais
-- Registro de marca (INPI)
-
----
-
-#### 80+ CLIENTES
-**Advocacia Nacional:**
-- Escritório forte
-- Apoio em múltiplos estados
-- Estrutura preventiva robusta
-- Proteção total do negócio
-
----
-
-### 7.6 CONTADOR - LINHA DO TEMPO
-
-#### DESDE O INÍCIO (Cliente 1)
-**🎯 CONTADOR OBRIGATÓRIO**
-
-**Regime:** Serviço mensal (PJ)  
-**Custo:** R$ 200 a R$ 400/mês
-
-**Responsabilidades:**
-- Emissão de notas fiscais
-- Cálculo do Simples Nacional
-- Obrigações acessórias
-- Declarações fiscais
-- Folha de pagamento (quando houver)
-- Pró-labore
-
-**Importância:**
-- Obrigação legal
-- Evita erros tributários graves
-- Fundamental desde o dia 1
-
----
-
-### 7.7 REPRESENTANTES REGIONAIS
-
-#### Quando contratar?
-**A partir de 10-15 clientes em uma cidade/região nova**
-
-**Modelo:**
-- 1 Representante Técnico/Comercial por região
-- Faz vendas + implantação + suporte local
-- PJ com escritório pequeno
-- Remuneração: Fixo + comissão
-
-**Primeira região:** Curitiba - PR (150+ clientes totais)  
-**Segunda região:** Campinas - SP (200+ clientes totais)
-
----
-
-### 7.8 RESUMO - ESTRUTURA DE EQUIPE POR FASE
-
-| Fase | Clientes | Equipe |
-|------|----------|--------|
-| Início | 1-10 | Fundador solo |
-| Validação | 10-15 | Fundador + Designer freelancer |
-| Crescimento | 15-45 | Fundador + Designer PJ integral |
-| Escala Inicial | 45-80 | Fundador + Designer + 1 Suporte |
-| Escala Regional | 80-120 | Fundador + Designer + 2 Suporte + 1 Comercial |
-| Escala Nacional | 120+ | Fundador + Designer + 3-4 Suporte + 2 Comercial + Representantes regionais |
-
-**Serviços Terceirizados (todos as fases):**
-- Contador (desde o início)
-- Advogado pontual (início)
-- Advogado mensal (20+ clientes)
-
----
-
-## 8. PLANEJAMENTO FINANCEIRO - SEPARAÇÃO TOTAL PF × PJ
-
-### 8.1 Princípios Fundamentais
-
-**REGRA DE OURO:**
-🚫 **NUNCA MISTURAR PF COM PJ**
-
-✅ Empresa paga você APENAS via pró-labore  
-✅ Empresa investe só depois de reserva completa  
-✅ Você investe só depois da sua reserva pessoal  
-✅ Dois CNPJs, duas contas, duas reservas, dois investimentos  
-✅ Caixa é rei
-
----
-
-### 8.2 FASE 0: INÍCIO ABSOLUTO (1 a 4 CLIENTES)
-
-#### 🏢 EMPRESA (PJ)
-**Receita:** R$ 400 a R$ 1.600/mês  
-**Estratégia:** TODO dinheiro fica no caixa  
-**Investimento:** ❌ Nenhum  
-**Retirada:** ❌ Nenhuma
-
-#### 👤 VOCÊ (PF)
-**Pró-labore:** ❌ Sem pró-labore fixo  
-**Sobrevivência:** Reserva pessoal ou fonte externa  
-**Investimento:** Mantém investimentos pessoais existentes
-
-**📌 Objetivo:** Sobrevivência e validação do produto
-
----
-
-### 8.3 FASE 1: PRIMEIRO EQUILÍBRIO (10 CLIENTES)
-
-#### 🏢 EMPRESA (PJ)
-**Receita:** R$ 4.000/mês  
-**Impostos (6%):** R$ 240  
-**Hospedagem:** R$ 350  
-**IA (Produção):** R$ 550  
-**Caixa Líquido:** R$ 2.860
-
-**➡️ Reserva EMPRESARIAL:**
-- Começar agora: R$ 500/mês
-- CDB liquidez diária PJ
-- Meta: 6 meses de custos fixos (~R$ 7.000)
-
-#### 👤 VOCÊ (PF)
-**➡️ Pró-labore:**
-- R$ 2.000/mês (apenas custo de vida)
-- Retirada mensal fixa
-
-**➡️ Reserva PESSOAL:**
-- R$ 300 a R$ 500/mês
-- CDB liquidez diária PF
-- Meta: 6 meses de custo de vida (R$ 12.000)
-
-**Investimento PF:** ❌ Ainda não
-
-**📌 Objetivo:** Empresa segura + você tranquilo
-
----
-
-### 8.4 FASE 2: CONFORTO INICIAL (20 CLIENTES)
-
-#### 🏢 EMPRESA (PJ)
-**Receita:** R$ 8.000/mês  
-**Impostos (6%):** R$ 480  
-**Hospedagem:** R$ 700  
-**IA:** R$ 550  
-**Sala comercial:** R$ 1.000  
-**Caixa Líquido:** R$ 5.270
-
-**➡️ Reserva EMPRESARIAL:**
-- Continuar até completar 6 meses
-- R$ 800 a R$ 1.000/mês
-- Ainda não investir a longo prazo
-
-#### 👤 VOCÊ (PF)
-**➡️ Pró-labore:**
-- Aumenta para R$ 2.500/mês
-
-**➡️ Reserva PESSOAL:**
-- Completa até R$ 12.000 (prioridade)
-- R$ 500/mês
-
-**➡️ Investimento PESSOAL:**
-- **INÍCIO AGORA** (após reserva completa)
-- R$ 500 a R$ 800/mês
-- CDB anual 12-15% (Nubank, Inter, C6)
-- Tesouro Direto (Selic ou IPCA+)
-
-**📌 Objetivo:** Segurança pessoal antes de enriquecer
-
----
-
-### 8.5 FASE 3: SEGURANÇA PLENA (30 CLIENTES)
-
-#### 🏢 EMPRESA (PJ)
-**Receita:** R$ 12.000/mês  
-**Custos Totais:** ~R$ 2.900  
-**Caixa Líquido:** R$ 9.100
-
-**Reserva Empresarial:** Quase completa
-
-**➡️ Investimento EMPRESARIAL:**
-- **INÍCIO AGORA**
-- CDB anual PJ (12-15%)
-- R$ 1.000 a R$ 1.500/mês
-- Cria capital próprio para expansão
-
-#### 👤 VOCÊ (PF)
-**➡️ Pró-labore:**
-- Aumenta para R$ 3.000/mês
-
-**➡️ Investimento PESSOAL:**
-- R$ 1.000+/mês
-- CDB anual
-- Tesouro Direto
-- Começa diversificação
-
-**📌 Objetivo:** Empresa começa a gerar capital próprio
-
----
-
-### 8.6 FASE 4: CRESCIMENTO CONSISTENTE (40 CLIENTES)
-
-#### 🏢 EMPRESA (PJ)
-**Receita:** R$ 16.000/mês  
-**Custos Totais:** ~R$ 3.500  
-**Caixa Líquido:** R$ 12.500
-
-**Reserva Empresarial:** ✅ COMPLETA  
-**Investimentos PJ:** Regulares e crescentes
-
-**Capital disponível para:**
-- Expansão
-- Novas contratações
-- Abertura de escritórios
-- Marketing agressivo
-
-#### 👤 VOCÊ (PF)
-**➡️ Pró-labore:**
-- R$ 3.500/mês
-
-**➡️ Investimentos PESSOAIS:**
-- R$ 1.500+/mês
-- Diversificação crescente
-- Começar pensar em Ações (pequena %)
-- Manter base em Renda Fixa
-
-**📌 Objetivo:** Nenhuma dependência de curto prazo
-
----
-
-### 8.7 FASE 5: MATURIDADE (60 CLIENTES)
-
-#### 🏢 EMPRESA (PJ)
-**Receita:** R$ 24.000/mês  
-**Caixa Líquido:** ~R$ 19.000
-
-**Investimentos PJ:**
-- CDB anual robusto
-- Caixa forte para expansão
-- Capital para novos escritórios
-
-#### 👤 VOCÊ (PF)
-**➡️ Pró-labore:**
-- R$ 4.500 a R$ 5.000/mês
-
-**➡️ Investimentos PESSOAIS:**
-- Crescimento agressivo
-- Patrimônio sólido em construção
-- Diversificação inteligente
-
-**📌 Objetivo:** Liberdade financeira em construção
-
----
-
-### 8.8 FASE 6: ESCALA REAL (80 CLIENTES)
-
-#### 🏢 EMPRESA (PJ)
-**Receita:** R$ 32.000/mês  
-**Caixa Líquido:** ~R$ 26.000
-
-**Status:**
-- Empresa independente do fundador
-- Capital próprio alto
-- Investimentos contínuos
-- Caixa robusto para oportunidades
-
-#### 👤 VOCÊ (PF)
-**➡️ Pró-labore:**
-- R$ 6.000 a R$ 7.000/mês
-
-**➡️ Patrimônio Pessoal:**
-- Sólido e crescente
-- Você não vive mais de mês em mês
-- Tranquilidade financeira
-
-**📌 Objetivo:** Independência financeira próxima
-
----
-
-### 8.9 Tabela Resumo - Evolução Financeira PF × PJ
-
-| Clientes | Receita PJ | Pró-labore PF | Reserva PJ | Investimento PJ | Investimento PF |
-|----------|------------|---------------|------------|-----------------|-----------------|
-| 10 | R$ 4.000 | R$ 2.000 | Iniciando | ❌ | ❌ |
-| 20 | R$ 8.000 | R$ 2.500 | Crescendo | ❌ | Iniciando |
-| 30 | R$ 12.000 | R$ 3.000 | Quase completa | Iniciando | R$ 1.000/mês |
-| 40 | R$ 16.000 | R$ 3.500 | ✅ Completa | R$ 1.500/mês | R$ 1.500/mês |
-| 60 | R$ 24.000 | R$ 5.000 | ✅ Completa | R$ 3.000/mês | R$ 2.000/mês |
-| 80 | R$ 32.000 | R$ 7.000 | ✅ Completa | R$ 5.000/mês | R$ 3.000/mês |
-
-## 9. ESTRATÉGIA DE MARKETING
-
-### 9.1 Princípios de Marketing
-
-**Filosofia:**
-- Marketing deve pagar a si mesmo
-- ROI mensurável em todas as ações
-- Crescimento sustentável > crescimento explosivo
-- Testar pequeno, escalar o que funciona
-- Indicação é o melhor marketing
-
----
-
-### 9.2 FASE 0-1: INÍCIO (1 a 10 CLIENTES)
-
-#### Estratégia Principal: INDICAÇÃO + RELACIONAMENTO
-
-**Canais:**
-- Boca a boca
-- Indicação de clientes atuais
-- Rede de contatos pessoais
-- Visitas presenciais em Anápolis
-
-**Investimento em Ads:** ❌ R$ 0  
-**Investimento Total:** R$ 0 a R$ 200/mês
-
-**Ações:**
-- Pedir indicação para cada cliente satisfeito
-- Criar programa simples de indicação (desconto/bônus)
-- Participar de grupos locais de marmorarias
-- Networking em associações do setor
-
-**Material Básico:**
-- Apresentação simples (Google Slides/Canva)
-- WhatsApp Business profissional
-- Cartão de visitas básico
-
----
-
-### 9.3 FASE 2: VALIDAÇÃO (10 a 25 CLIENTES)
-
-#### Estratégia: INDICAÇÃO + PRESENÇA DIGITAL INICIAL
-
-**Canais:**
-- Indicação (continua principal)
-- Google Meu Negócio
-- Instagram básico
-- WhatsApp Business
-
-**Investimento em Ads:** R$ 0 a R$ 300/mês (testes)  
-**Investimento Total:** R$ 500/mês
-
-**Ações:**
-- Criar perfil Instagram profissional
-- Postar casos de sucesso (com autorização)
-- Depoimentos em vídeo de clientes
-- Google Meu Negócio otimizado
-- Começar testar Google Ads (baixo volume)
-
-**Material:**
-- Logo profissional (freelancer)
-- Template de posts para redes sociais
-- Vídeos curtos (celular mesmo)
-
----
-
-### 9.4 FASE 3: CRESCIMENTO (25 a 50 CLIENTES)
-
-#### Estratégia: DIGITAL + CONTEÚDO + INDICAÇÃO
-
-**Canais Ativos:**
-- Google Ads (marmoraria + cidade)
-- Facebook/Instagram Ads
-- Instagram orgânico
-- Google Meu Negócio
-- Indicação (incentivada)
-
-**Investimento em Ads:** R$ 500 a R$ 1.000/mês  
-**Investimento Total:** R$ 1.500/mês
-
-**Ações:**
-- Campanha Google Ads: "sistema para marmoraria"
-- Facebook/Instagram Ads: remarketing + lookalike
-- Conteúdo educativo no Instagram
-- Blog básico (SEO de longo prazo)
-- Email marketing para leads
-
-**Designer entra aqui (15 clientes):**
-- Identidade visual forte
-- Feed Instagram profissional
-- Material comercial de qualidade
-- Anúncios com design impactante
-
-**Métricas a acompanhar:**
-- Custo por Lead (CPL)
-- Custo de Aquisição de Cliente (CAC)
-- Taxa de conversão
-- ROI de cada canal
-
----
-
-### 9.5 FASE 4: ESCALA REGIONAL (50 a 80 CLIENTES)
-
-#### Estratégia: MARKETING ESTRUTURADO + EXPANSÃO GEOGRÁFICA
-
-**Canais:**
-- Google Ads (múltiplas cidades GO)
-- Facebook/Instagram Ads
-- YouTube (vídeos demonstração)
-- LinkedIn (B2B)
-- Blog com SEO
-- Email marketing
-
-**Investimento em Ads:** R$ 2.000 a R$ 3.000/mês  
-**Investimento Total:** R$ 4.000/mês
-
-**Ações:**
-- Campanhas segmentadas por cidade
-- Conteúdo em vídeo (YouTube)
-- Webinars para marmorarias
-- Parcerias com fornecedores do setor
-- Presença em feiras locais (se ROI positivo)
-
-**Equipe de Marketing:**
-- Designer tempo integral (conteúdo visual)
-- Fundador (estratégia)
-- Agência ou freelancer (gestão de tráfego) - opcional
-
----
-
-### 9.6 FASE 5: ESCALA NACIONAL (80+ CLIENTES)
-
-#### Estratégia: MARKETING NACIONAL + BRANDING
-
-**Canais:**
-- Google Ads (múltiplos estados)
-- Facebook/Instagram Ads (nacional)
-- YouTube (canal consolidado)
-- LinkedIn (autoridade no setor)
-- Blog robusto (SEO forte)
-- Email marketing avançado
-- Parcerias estratégicas
-
-**Investimento em Ads:** R$ 5.000 a R$ 10.000/mês  
-**Investimento Total:** R$ 8.000 a R$ 12.000/mês
-
-**Ações:**
-- Campanhas por estado/região
-- Conteúdo premium (ebooks, guias)
-- Podcast do setor (opcional)
-- Participação em eventos nacionais
-- Cases de sucesso documentados
-- Programa de embaixadores (clientes)
-
-**Equipe:**
-- Designer/Brand Manager
-- Gestor de Tráfego (PJ ou agência)
-- Produtor de Conteúdo (eventual)
-- Comercial para follow-up de leads
-
----
-
-### 9.7 Funil de Marketing - Estrutura
-
-#### TOPO DE FUNIL (AWARENESS)
-**Objetivo:** Marmoraria descobre que existe solução
-
-**Canais:**
-- Instagram (conteúdo educativo)
-- YouTube (vídeos explicativos)
-- Blog (SEO)
-- Anúncios de alcance
-
-**Conteúdo:**
-- "5 problemas que toda marmoraria enfrenta"
-- "Como organizar orçamentos de marmoraria"
-- "Marmoraria digital: o futuro do setor"
-
----
-
-#### MEIO DE FUNIL (CONSIDERAÇÃO)
-**Objetivo:** Marmoraria entende a solução
-
-**Canais:**
-- Remarketing
-- Email marketing
-- WhatsApp
-- Demonstrações gravadas
-
-**Conteúdo:**
-- "Como funciona um sistema de gestão"
-- Cases de sucesso
-- Depoimentos de clientes
-- Tour pelo sistema
-
----
-
-#### FUNDO DE FUNIL (DECISÃO)
-**Objetivo:** Marmoraria contrata
-
-**Canais:**
-- Demonstração ao vivo
-- Conversa comercial (WhatsApp/ligação)
-- Proposta personalizada
-- Trial/teste (se aplicável)
-
-**Gatilhos:**
-- Desconto para primeiros clientes da cidade
-- Bônus de implantação
-- Garantia de 30 dias
-- Suporte dedicado
-
----
-
-### 9.8 Programa de Indicação
-
-#### ESTRUTURA DO PROGRAMA
-
-**Para o INDICADOR (cliente atual):**
-- 1 mês grátis para cada indicação que fechar
-- Ou desconto de R$ 100 no próximo mês
-- Sem limite de indicações
-
-**Para o INDICADO (novo cliente):**
-- Desconto de 50% no primeiro mês
-- Ou implantação gratuita prioritária
-
-**Regras:**
-- Indicação conta após 3 meses pagos do novo cliente
-- Crédito não expira
-- Pode acumular
-
-**Por quê funciona:**
-- Cliente satisfeito já vende naturalmente
-- Incentivo acelera o processo
-- Novo cliente chega "pré-vendido"
-- Menor CAC de todos os canais
-
----
-
-### 9.9 Posicionamento e Mensagem
-
-#### MENSAGEM PRINCIPAL:
-**"O sistema completo que sua marmoraria precisa para crescer organizadamente"**
-
-#### PILARES DE COMUNICAÇÃO:
-
-**1. COMPLETUDE**
-- Tudo em um lugar
-- Não precisa de várias ferramentas
-- Da venda à entrega
-
-**2. SIMPLICIDADE**
-- Fácil de usar
-- Implantação rápida
-- Não precisa ser expert em tecnologia
-
-**3. SUPORTE**
-- Atendimento próximo
-- Treinamento incluído
-- Não te deixamos sozinho
-
-**4. PREÇO**
-- Acessível para qualquer marmoraria
-- Investimento que se paga
-- Sem surpresas ou custos ocultos
-
----
-
-### 9.10 Marketing por Fase - Resumo
-
-| Fase | Clientes | Investimento | Canais Principais | Foco |
-|------|----------|--------------|-------------------|------|
-| 0-1 | 1-10 | R$ 0-200 | Indicação + Presencial | Validação |
-| 2 | 10-25 | R$ 500 | Indicação + Digital Básico | Presença |
-| 3 | 25-50 | R$ 1.500 | Ads + Conteúdo | Crescimento |
-| 4 | 50-80 | R$ 4.000 | Multi-canal Regional | Escala Regional |
-| 5 | 80+ | R$ 8.000+ | Multi-canal Nacional | Escala Nacional |
-
----
-
-## 10. INFRAESTRUTURA E TECNOLOGIA
-
-### 10.1 Hospedagem e Infraestrutura
-
-#### FASE INICIAL (1 a 30 CLIENTES)
-
-**Servidor:**
-- Cloud básico (AWS, Azure, Google Cloud ou VPS)
-- Escalável conforme demanda
-- Backup automático diário
-
-**Custo:** R$ 35/cliente/mês = R$ 350 para 10 clientes
-
-**Especificações mínimas:**
-- 2-4 vCPUs
-- 4-8 GB RAM
-- 100 GB SSD
-- Banco de dados gerenciado
-
----
-
-#### FASE CRESCIMENTO (30 a 100 CLIENTES)
-
-**Infraestrutura:**
-- Servidor mais robusto
-- CDN para assets estáticos
-- Backup em múltiplas regiões
-- Monitoramento 24/7
-
-**Custo:** R$ 35/cliente/mês mantido (economia de escala)
-
----
-
-#### FASE ESCALA (100+ CLIENTES)
-
-**Infraestrutura:**
-- Múltiplos servidores (load balancing)
-- Banco de dados com réplicas
-- CDN global
-- Monitoramento avançado
-- Alertas automáticos
-
-**Custo:** R$ 30-35/cliente/mês (maior escala)
-
----
-
-### 10.2 Ferramentas de Desenvolvimento
-
-#### Inteligência Artificial (Produção)
-**Custo:** R$ 550/mês (fixo)  
-**Ferramentas:** ChatGPT Plus, Claude Pro, ou similar
-
-**Uso:**
-- Aceleração do desenvolvimento
-- Resolução de problemas técnicos
-- Otimização de código
-- Criação de documentação
-- Testes e debug
-
-**ROI:**
-- Equivale a 30-40 horas/mês de dev junior
-- Economiza R$ 7.000 a R$ 14.000/mês vs contratar
-- Disponível 24/7
-- Zero risco trabalhista
-
----
-
-#### Stack Tecnológico Recomendado
-
-**Frontend:**
-- React ou Vue.js (SPA moderna)
-- TypeScript (segurança de tipos)
-- Tailwind CSS (produtividade)
-
-**Backend:**
-- Node.js ou Python
-- API RESTful ou GraphQL
-- Autenticação JWT
-
-**Banco de Dados:**
-- PostgreSQL (principal)
-- Redis (cache)
-
-**DevOps:**
-- Git/GitHub (controle de versão)
-- CI/CD automatizado
-- Docker (containerização)
-
----
-
-### 10.3 Segurança
-
-#### Medidas Obrigatórias
-
-**Dados:**
-- Criptografia em trânsito (HTTPS/SSL)
-- Criptografia em repouso
-- Backup automático diário
-- Backup em região diferente
-
-**Acesso:**
-- Autenticação forte (2FA quando possível)
-- Controle de permissões por usuário
-- Logs de auditoria
-- Sessões com timeout
-
-**Código:**
-- Repositório privado
-- Acesso restrito ao fundador
-- Backup em múltiplos locais
-- Versionamento rigoroso
-
-**LGPD:**
-- Política de privacidade clara
-- Termo de uso
-- Controle de consentimento
-- Direito de portabilidade e exclusão
-
----
-
-### 10.4 Monitoramento e Performance
-
-#### Métricas Técnicas a Acompanhar
-
-**Uptime:**
-- Meta: 99.9% (SLA)
-- Alerta se cair abaixo de 99%
-
-**Performance:**
-- Tempo de carregamento < 2 segundos
-- API response time < 500ms
-- Queries otimizadas
-
-**Erros:**
-- Taxa de erro < 0.1%
-- Monitoramento de exceções
-- Logs centralizados
-
-**Ferramentas:**
-- UptimeRobot (monitoramento)
-- Sentry (erro tracking)
-- Google Analytics (uso)
-
----
-
-### 10.5 Escalabilidade Técnica
-
-#### Preparação para Crescimento
-
-**Arquitetura:**
-- Microserviços (conforme necessário)
-- Filas de processamento (jobs assíncronos)
-- Cache estratégico (Redis)
-- CDN para assets
-
-**Banco de Dados:**
-- Índices otimizados
-- Queries eficientes
-- Read replicas (100+ clientes)
-- Particionamento (se necessário)
-
-**Frontend:**
-- Lazy loading
-- Code splitting
-- Asset optimization
-- PWA (Progressive Web App)
-
----
-
-## 11. PROCESSOS OPERACIONAIS
-
-### 11.1 Processo de Vendas
-
-#### ETAPA 1: LEAD ENTRA
-**Canal:** Ads, indicação, orgânico, etc.
-
-**Ação Imediata:**
-- Resposta em até 2 horas (horário comercial)
-- Qualificação inicial (WhatsApp)
-- Agendamento de demonstração
-
----
-
-#### ETAPA 2: DEMONSTRAÇÃO
-**Duração:** 30-45 minutos
-
-**Estrutura:**
-1. Apresentação (5 min)
-2. Entender dores do cliente (10 min)
-3. Demonstração focada nas dores (20 min)
-4. Perguntas e objeções (10 min)
-5. Próximos passos
-
-**Material:**
-- Apresentação do sistema
-- Cases de sucesso
-- Proposta de valor
-
----
-
-#### ETAPA 3: PROPOSTA
-**Envio:** Imediato após demonstração
-
-**Conteúdo:**
-- Valor: R$ 400/mês
-- O que está incluso
-- Processo de implantação
-- Suporte incluído
-- Link para contrato/adesão
-
----
-
-#### ETAPA 4: FECHAMENTO
-**Follow-up:** 24h, 48h, 1 semana
-
-**Gatilhos:**
-- Desconto primeiro mês (se necessário)
-- Implantação prioritária
-- Treinamento extra
-
----
-
-### 11.2 Processo de Implantação
-
-#### FASE 1: ONBOARDING (DIA 0)
-**Duração:** 1 hora
-
-**Ações:**
-- Criar conta do cliente
-- Configurações iniciais
-- Enviar credenciais
-- Agendar treinamento
-
----
-
-#### FASE 2: TREINAMENTO (DIAS 1-3)
-**Duração:** 2-3 horas (pode ser dividido)
-
-**Módulos:**
-1. Cadastros básicos
-2. Criação de orçamentos
-3. Controle de estoque
-4. Financeiro básico
-5. Relatórios principais
-
-**Formato:**
-- Presencial ou remoto (TeamViewer/AnyDesk)
-- Gravar sessão para consulta futura
-- Material de apoio em PDF
-
----
-
-#### FASE 3: ACOMPANHAMENTO (DIAS 4-14)
-**Suporte intensivo:**
-- Disponibilidade alta
-- Resolução rápida de dúvidas
-- Ajustes finos
-- Check-in proativo (dia 7 e dia 14)
-
----
-
-#### FASE 4: CLIENTE ATIVO (DIA 15+)
-**Transição para suporte normal:**
-- Cliente já usa autonomamente
-- Suporte sob demanda
-- Check-in mensal (opcional)
-
----
-
-### 11.3 Processo de Suporte
-
-#### CANAIS DE SUPORTE
-
-**WhatsApp Business:** Principal
-- Resposta em até 4 horas (horário comercial)
-- Priorização por gravidade
-
-**Email:** Secundário
-- Resposta em até 24 horas
-
-**Telefone:** Urgências
-- Horário comercial
-
----
-
-#### CLASSIFICAÇÃO DE CHAMADOS
-
-**P0 - CRÍTICO (Sistema parado):**
-- Resposta: Imediata
-- Resolução: Máximo 4 horas
-- Comunicação: A cada hora
-
-**P1 - ALTO (Funcionalidade crítica com problema):**
-- Resposta: 2 horas
-- Resolução: Até 24 horas
-
-**P2 - MÉDIO (Funcionalidade secundária):**
-- Resposta: 4 horas
-- Resolução: 2-3 dias
-
-**P3 - BAIXO (Dúvidas, melhorias):**
-- Resposta: 8 horas
-- Resolução: Conforme roadmap
-
----
-
-#### SLA (Service Level Agreement)
-
-**Disponibilidade do Sistema:**
-- 99.9% uptime/mês
-- Manutenções programadas: madrugada, avisadas 48h antes
-
-**Suporte:**
-- Horário: Seg-Sex, 8h-18h
-- Sábado: 8h-12h (opcional conforme fase)
-- Domingo/feriado: Apenas emergências P0
-
----
-
-### 11.4 Processo de Cobrança
-
-#### COBRANÇA MENSAL
-
-**Data de Vencimento:**
-- Dia fixo (ex: dia 10 de cada mês)
-- Definido na contratação
-
-**Meio de Pagamento:**
-- PIX (preferencial - sem taxa)
-- Boleto (taxa do banco)
-- Cartão de crédito (via gateway - taxa 3-5%)
-
-**Emissão de NF:**
-- Automática após pagamento confirmado
-- Envio por email
-
----
-
-#### INADIMPLÊNCIA
-
-**Dia do Vencimento:**
-- Lembrete automático via WhatsApp/Email
-
-**Dia +1:**
-- Primeiro aviso
-
-**Dia +3:**
-- Segundo aviso
-- Cobrança via WhatsApp
-
-**Dia +7:**
-- Bloqueio de acesso (apenas visualização)
-- Aviso de bloqueio
-
-**Dia +15:**
-- Cobrança extrajudicial (se advogado)
-- Negociação de acordo
-
-**Dia +30:**
-- Cancelamento da conta
-- Backup dos dados por 90 dias
-
----
-
-### 11.5 Processo de Cancelamento
-
-#### SOLICITAÇÃO DE CANCELAMENTO
-
-**Ação Imediata:**
-- Entender motivo (pesquisa)
-- Tentar reter (se fizer sentido)
-- Não insistir se decisão firme
-
-**Oferecer:**
-- Desconto temporário (se questão de preço)
-- Suporte extra (se questão técnica)
-- Pausa de 1-2 meses (se questão temporária)
-
----
-
-#### PROCESSAMENTO
-
-**Cancelamento Aceito:**
-- Acesso mantido até fim do período pago
-- Backup dos dados disponível por 90 dias
-- Email de confirmação
-- Pesquisa de satisfação (NPS)
-
-**Após 90 dias:**
-- Dados deletados permanentemente (LGPD)
-- Cliente notificado 15 dias antes
-
-## 12. INDICADORES DE PERFORMANCE (KPIs)
-
-### 12.1 KPIs Financeiros
-
-#### MRR (Monthly Recurring Revenue)
-**Fórmula:** Número de clientes × R$ 400
-
-**Metas por Fase:**
-- 10 clientes: R$ 4.000 MRR
-- 25 clientes: R$ 10.000 MRR
-- 50 clientes: R$ 20.000 MRR
-- 80 clientes: R$ 32.000 MRR
-- 100 clientes: R$ 40.000 MRR
-
-**Por quê importa:** É a receita previsível do negócio
-
----
-
-#### ARR (Annual Recurring Revenue)
-**Fórmula:** MRR × 12
-
-**Meta 1 ano:** R$ 384.000 (80 clientes)  
-**Meta 2 anos:** R$ 960.000 (200 clientes)
-
----
-
-#### Churn Rate (Taxa de Cancelamento)
-**Fórmula:** (Clientes perdidos no mês / Total início do mês) × 100
-
-**Meta Ideal:** < 5% ao mês  
-**Aceitável:** 5-8% ao mês  
-**Crítico:** > 10% ao mês
-
-**Ações se > 8%:**
-- Investigar motivos profundamente
-- Melhorar onboarding
-- Aumentar suporte
-- Revisar produto
-
----
-
-#### CAC (Custo de Aquisição de Cliente)
-**Fórmula:** Total gasto em marketing e vendas / Novos clientes
-
-**Meta por Fase:**
-- Início (indicação): R$ 0-50
-- Crescimento (ads): R$ 200-400
-- Escala: R$ 300-500
-
-**Regra de Ouro:** CAC < 3× valor da mensalidade (R$ 1.200)
-
----
-
-#### LTV (Lifetime Value)
-**Fórmula Simples:** (R$ 400 × Tempo médio de permanência em meses) - CAC
-
-**Exemplo:**
-- Cliente fica em média 24 meses
-- LTV = R$ 400 × 24 = R$ 9.600
-- Se CAC = R$ 400
-- LTV real = R$ 9.200
-
-**Meta:** LTV/CAC > 3:1 (idealmente 5:1)
-
----
-
-#### Margem de Lucro
-**Fórmula:** (Receita - Custos) / Receita × 100
-
-**Metas:**
-- 10 clientes: 71%
-- 30 clientes: 80%
-- 80 clientes: 83%+
-
----
-
-#### Burn Rate (Taxa de Queima de Caixa)
-**Relevante se:** Investindo mais do que ganha
-
-**Fórmula:** Custos mensais - Receita mensal
-
-**Se negativo:** Quanto tempo até acabar o caixa?  
-**Meta:** Sempre positivo (lucro) ou controlado com reserva clara
-
----
-
-### 12.2 KPIs Operacionais
-
-#### Tempo Médio de Implantação
-**Meta:** 7-14 dias (do pagamento ao uso pleno)
-
-**Medir:**
-- Tempo até primeiro login
-- Tempo até primeiro orçamento criado
-- Tempo até cliente autônomo
-
----
-
-#### NPS (Net Promoter Score)
-**Pergunta:** "De 0 a 10, quanto você recomendaria nosso sistema?"
-
-**Classificação:**
-- 9-10: Promotores
-- 7-8: Neutros
-- 0-6: Detratores
-
-**Fórmula:** % Promotores - % Detratores
-
-**Meta:**
-- Excelente: > 50
-- Bom: 30-50
-- Regular: 0-30
-- Ruim: < 0
-
-**Quando medir:** 
-- 30 dias após implantação
-- A cada 6 meses
-
----
-
-#### Taxa de Conversão (Lead → Cliente)
-**Fórmula:** (Clientes fechados / Total de leads qualificados) × 100
-
-**Metas:**
-- Início (indicação): 40-60%
-- Crescimento (ads): 20-30%
-- Escala (ads + indicação mix): 25-35%
-
----
-
-#### Ticket Médio de Suporte
-**Medir:**
-- Tempo médio de resposta
-- Tempo médio de resolução
-- % de tickets resolvidos em primeira interação
-
-**Metas:**
-- Resposta: < 4 horas
-- Resolução P0: < 4 horas
-- Resolução P1: < 24 horas
-- Primeira interação: > 70%
-
----
-
-#### Uptime do Sistema
-**Meta:** 99.9% (43 minutos de downtime/mês permitido)
-
-**Monitorar:**
-- Disponibilidade total
-- Performance (tempo de resposta)
-- Erros (rate de erro)
-
----
-
-### 12.3 KPIs de Crescimento
-
-#### Taxa de Crescimento Mensal (MoM)
-**Fórmula:** ((Clientes mês atual - Clientes mês anterior) / Clientes mês anterior) × 100
-
-**Meta Inicial:** 20-30% ao mês  
-**Meta Escala:** 10-15% ao mês
-
----
-
-#### Novos Clientes por Canal
-**Medir:**
-- Indicação: X clientes
-- Google Ads: X clientes
-- Instagram/Facebook: X clientes
-- Orgânico: X clientes
-
-**Analisar:** ROI de cada canal mensalmente
-
----
-
-#### Taxa de Retenção
-**Fórmula:** (Clientes que permaneceram / Total início do mês) × 100
-
-**Meta:** > 95% ao mês
-
----
-
-### 12.4 Dashboard de Controle
-
-#### Painel Mensal (Acompanhar TODO MÊS)
-
-**Financeiro:**
-- MRR atual
-- Crescimento MRR vs mês anterior
-- Receita total
-- Custos totais
-- Lucro líquido
-- Margem de lucro
-
-**Clientes:**
-- Total de clientes ativos
-- Novos clientes no mês
-- Cancelamentos no mês
-- Churn rate
-- NPS médio
-
-**Marketing:**
-- Leads gerados
-- Taxa de conversão
-- CAC por canal
-- ROI de marketing
-
-**Operacional:**
-- Tickets de suporte abertos/resolvidos
-- Tempo médio de resolução
-- Uptime do sistema
-- Novos features lançados
-
----
-
-## 13. GESTÃO DE RISCOS
-
-### 13.1 Riscos Técnicos
-
-#### RISCO: Sistema fora do ar
-**Probabilidade:** Média  
-**Impacto:** ALTO
-
-**Mitigação:**
-- Monitoramento 24/7
-- Alertas automáticos
-- Backup automático diário
-- Plano de recuperação documentado
-- Servidor redundante (conforme crescimento)
-
-**Plano de Ação:**
-1. Identificar causa em < 15 minutos
-2. Comunicar clientes imediatamente
-3. Restaurar de backup se necessário
-4. Post-mortem após incidente
-
----
-
-#### RISCO: Perda de dados
-**Probabilidade:** Baixa  
-**Impacto:** CRÍTICO
-
-**Mitigação:**
-- Backup diário automático
-- Backup em região diferente
-- Teste de restauração mensal
-- Versionamento de banco
-- Logs de auditoria
-
----
-
-#### RISCO: Ataque cibernético
-**Probabilidade:** Média  
-**Impacto:** ALTO
-
-**Mitigação:**
-- Criptografia forte
-- Autenticação robusta
-- Firewall configurado
-- Updates de segurança regulares
-- Monitoramento de acessos suspeitos
-
----
-
-### 13.2 Riscos de Negócio
-
-#### RISCO: Churn alto (> 10%)
-**Probabilidade:** Média  
-**Impacto:** ALTO
-
-**Mitigação:**
-- Onboarding excelente
-- Suporte proativo
-- Medir NPS regularmente
-- Melhorar produto constantemente
-- Relacionamento próximo com clientes
-
-**Plano de Ação:**
-- Entrevista de saída (todo cancelamento)
-- Análise de padrões
-- Implementar melhorias
-- Programa de recuperação de clientes
-
----
-
-#### RISCO: Concorrente forte entra
-**Probabilidade:** Alta (longo prazo)  
-**Impacto:** MÉDIO/ALTO
-
-**Mitigação:**
-- Ser o primeiro e melhor
-- Relacionamento forte com clientes
-- Produto superior
-- Suporte diferenciado
-- Preço competitivo
-- Inovação constante
-
-**Vantagens:**
-- Mercado enorme (espaço para vários)
-- Clientes têm custo de mudança alto
-- Relacionamento local é barreira
-
----
-
-#### RISCO: Cliente grande e problemático
-**Probabilidade:** Média  
-**Impacto:** MÉDIO
-
-**Mitigação:**
-- Contrato claro
-- SLA documentado
-- Não dar tratamento especial além do contrato
-- Cobrar por customizações (se houver)
-
-**Regra:** Nenhum cliente deve ser > 5% da receita
-
----
-
-#### RISCO: Crescimento muito rápido
-**Probabilidade:** Baixa/Média  
-**Impacto:** MÉDIO (paradoxo, mas real)
-
-**Mitigação:**
-- Reserva de caixa robusta
-- Processos escaláveis documentados
-- Infraestrutura elástica
-- Não sacrificar qualidade por velocidade
-
-**Sinais de alerta:**
-- Suporte sobrecarregado
-- Bugs aumentando
-- Clientes insatisfeitos
-- Fundador esgotado
-
-**Ação:** DESACELERAR se necessário
-
----
-
-### 13.3 Riscos Financeiros
-
-#### RISCO: Fluxo de caixa negativo
-**Probabilidade:** Baixa (se seguir o plano)  
-**Impacto:** CRÍTICO
-
-**Mitigação:**
-- Reserva de 6 meses sempre
-- Controle rigoroso de gastos
-- Não contratar antes da hora
-- Investir só quando sobrar
-- Separação PF × PJ rigorosa
-
----
-
-#### RISCO: Inadimplência alta
-**Probabilidade:** Média  
-**Impacto:** MÉDIO
-
-**Mitigação:**
-- Cobrança automatizada
-- Bloqueio após 7 dias
-- Processo de cobrança claro
-- Pagamento antecipado incentivado
-
-**Meta:** Inadimplência < 5% ao mês
-
----
-
-#### RISCO: Mudança tributária
-**Probabilidade:** Baixa/Média  
-**Impacto:** ALTO
-
-**Mitigação:**
-- Contador atualizado
-- Margem de segurança no preço
-- Acompanhar legislação
-- Planejamento tributário anual
-
----
-
-### 13.4 Riscos Jurídicos
-
-#### RISCO: Processo trabalhista
-**Probabilidade:** Média (se contratar CLT)  
-**Impacto:** ALTO
-
-**Mitigação:**
-- Preferir PJ
-- CLT só quando necessário
-- Tudo documentado
-- Contador com DP
-- Advogado trabalhista
-
----
-
-#### RISCO: LGPD / Vazamento de dados
-**Probabilidade:** Baixa  
-**Impacto:** CRÍTICO
-
-**Mitigação:**
-- Política de privacidade clara
-- Termo de uso
-- Segurança técnica forte
-- Treinamento de equipe
-- Advogado especializado
-
----
-
-#### RISCO: Propriedade Intelectual
-**Probabilidade:** Baixa  
-**Impacto:** ALTO
-
-**Mitigação:**
-- Código 100% proprietário
-- Sem desenvolvedores terceiros
-- Contratos de confidencialidade
-- Registrar marca (INPI)
-- Termo de uso com propriedade clara
-
----
-
-### 13.5 Riscos Pessoais (Fundador)
-
-#### RISCO: Burnout
-**Probabilidade:** ALTA (se não prevenir)  
-**Impacto:** CRÍTICO
-
-**Sinais de Alerta:**
-- Trabalhar 7 dias/semana
-- Não tirar folga há meses
-- Exaustão mental
-- Qualidade caindo
-- Decisões ruins
-
-**Mitigação:**
-- Trabalhar 6 dias MAX (folgar 1 dia)
-- Tirar 1 semana a cada 3-4 meses
-- Delegar quando possível
-- Contratar suporte cedo (45 clientes)
-- Exercício físico regular
-- Dormir bem
-
-**Plano de Emergência:**
-- Sistema deve funcionar sem você por 1 semana
-- Documentação completa
-- Equipe treinada
-
----
-
-#### RISCO: Doença/Acidente
-**Probabilidade:** Baixa  
-**Impacto:** CRÍTICO
-
-**Mitigação:**
-- Seguro de vida
-- Documentação completa
-- Processos mapeados
-- Equipe pode segurar 30 dias
-- Pessoa de confiança com acesso emergencial
-
----
-
-## 14. PLANO DE CONTINGÊNCIA
-
-### 14.1 Se o Sistema Cair
-
-**Primeiros 15 minutos:**
-1. Confirmar se realmente está fora
-2. Verificar logs e monitoramento
-3. Identificar causa
-
-**Comunicação Imediata:**
-- Post no Instagram/Facebook
-- Mensagem no grupo de WhatsApp (se houver)
-- Email para todos os clientes
-
-**Mensagem Modelo:**
-```
-Identificamos instabilidade no sistema às [HORA]. 
-Estamos trabalhando para normalizar o mais rápido possível.
-Previsão: [TEMPO]
-Atualizações a cada hora.
+```yaml
+Sede Principal: Goiânia - GO
+Escritórios Regionais:
+  - Anápolis - GO
+  - Curitiba - PR
+  - Campinas - SP
+  - Joinville ou Florianópolis - SC
+  - Belo Horizonte - MG (potencial)
+  - Fortaleza - CE (potencial)
+
+Clientes: 250+
+Duração: Contínuo
+Estrutura: Nacional consolidada
 ```
 
-**Resolução:**
-- Restaurar de backup se necessário
-- Documentar causa e solução
-- Post-mortem em 24h
-- Implementar correção permanente
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                    MODELO NACIONAL ESTABELECIDO                  │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                  │
+│   SEDE CENTRAL (Goiânia)          │   ESCRITÓRIOS REGIONAIS     │
+│   ═══════════════════════         │   ═════════════════════     │
+│   • Desenvolvimento (Fundador)     │   • Vendas locais           │
+│   • Estratégia e planejamento     │   • Suporte presencial      │
+│   • Marketing central              │   • Implantação             │
+│   • Financeiro                     │   • Relacionamento clientes │
+│   • RH                             │   • Representação regional  │
+│   • Tecnologia e infraestrutura   │                             │
+│                                                                  │
+├─────────────────────────────────────────────────────────────────┤
+│                    MODELO DE ATENDIMENTO                         │
+│                                                                  │
+│   • Remoto como padrão (80%)                                    │
+│   • Presencial quando necessário (20%)                          │
+│   • Equipe local conhece particularidades regionais             │
+│                                                                  │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+```yaml
+Próximos Estados Prioritários:
+  Santa Catarina:
+    - Joinville (polo industrial)
+    - Florianópolis (capital, tecnologia)
+    - Blumenau
+  
+  Minas Gerais:
+    - Belo Horizonte
+    - Região metropolitana
+    - Triângulo Mineiro
+  
+  Nordeste:
+    - Fortaleza - CE (porta de entrada)
+    - Recife - PE
+    - Salvador - BA
+
+Receita Esperada:
+  - 300 clientes = ~R$ 127.500/mês
+  - 400 clientes = ~R$ 170.000/mês
+  - 500 clientes = ~R$ 212.500/mês
+
+Características:
+  ✔ Empresa nacionalmente reconhecida
+  ✔ Operação multi-regional eficiente
+  ✔ Processos 100% padronizados
+  ✔ Equipe distribuída e autônoma
+  ✔ Marca forte no setor
+  ✔ Crescimento sustentável e lucrativo
+```
 
 ---
 
-### 14.2 Se Churn Disparar (> 10%)
+## 8. Linha do Tempo
 
-**Análise Imediata:**
-1. Listar todos os cancelamentos do mês
-2. Identificar padrões
-3. Entrevistar clientes que cancelaram
+### 8.1 Situação Atual (Mês 0)
 
-**Ações:**
-- Pausar marketing (não trazer mais até resolver)
-- Focar em reter clientes atuais
-- Melhorar onboarding
-- Aumentar suporte
-- Corrigir bugs críticos
-
-**Meta:** Voltar a < 5% em 60 dias
+```yaml
+Clientes: 1 ativo
+Trabalho: Solo (home office)
+Foco: Desenvolvimento + validação
+Receita: R$ 399/mês
+```
 
 ---
 
-### 14.3 Se Crescimento Parar
+### 8.2 META 1: 10 CLIENTES
 
-**Análise:**
-- Leads pararam de entrar?
-- Leads não convertem?
-- Marketing não funciona mais?
-- Produto perdeu competitividade?
+```yaml
+Prazo: 4 a 5 semanas
+Ritmo: 2 clientes por semana
+Receita: ~R$ 3.990/mês
+Lucro: ~R$ 2.800/mês
 
-**Ações Conforme Causa:**
+Ações:
+  ✔ Validar sistema no uso real
+  ✔ Ajustar funcionalidades com feedback
+  ✔ Estruturar processo básico de suporte
+  ✔ Continuar trabalhando sozinho
 
-**Se leads pararam:**
-- Revisar campanhas
-- Testar novos canais
-- Aumentar investimento (se ROI ok)
-
-**Se conversão caiu:**
-- Melhorar discurso comercial
-- Revisar preço (pode estar alto)
-- Melhorar demonstração
-- Adicionar garantias/bônus
-
-**Se produto:**
-- Ouvir clientes
-- Priorizar melhorias
-- Lançar features esperadas
+🏢 DECISÃO CRÍTICA: Alugar sala comercial em Anápolis
+   - Sair do home office
+   - Dedicar 100% ao negócio
+   - Ambiente profissional
+```
 
 ---
 
-### 14.4 Se Caixa Apertar
+### 8.3 META 2: 25 CLIENTES
 
-**Prioridades (Nesta Ordem):**
+```yaml
+Prazo: ~3 meses (acumulado)
+Receita: ~R$ 10.600/mês
+Lucro: ~R$ 8.600/mês
 
-**1. Manter sistema no ar**
-- Pagar hospedagem
-- Pagar IA (essencial)
+Ações:
+  ✔ Padronizar atendimento e suporte
+  ✔ Criar documentação básica (FAQ, guias)
+  ✔ Automatizar processos repetitivos
+  ✔ Ainda sem funcionários (estrutura enxuta)
 
-**2. Manter clientes ativos**
-- Suporte básico
-- Correção de bugs críticos
-
-**3. Cortar gastos não essenciais**
-- Pausar marketing
-- Adiar contratações
-- Reduzir escritório (se possível)
-- Negociar com fornecedores
-
-**4. Aumentar receita rápido**
-- Reativar clientes antigos
-- Cobrar inadimplentes
-- Oferta especial (desconto anual)
-- Buscar indicações agressivamente
-
-**5. Pró-labore pessoal**
-- Reduzir ao mínimo sobrevivência
-- Usar reserva pessoal se necessário
-
-**NUNCA:**
-- Deixar de pagar impostos
-- Deixar de pagar fornecedores críticos
-- Contrair dívidas de alta taxa
+Estrutura:
+  - Sala comercial em Anápolis
+  - Operação solo eficiente
+  - Processos definidos
+```
 
 ---
 
-### 14.5 Se Aparecer Concorrente Forte
+### 8.4 META 3: 45-50 CLIENTES
 
-**NÃO Fazer:**
-- Entrar em guerra de preços
-- Copiar tudo que eles fazem
-- Pânico
+```yaml
+Prazo: 5 a 6 meses (acumulado)
+Receita: R$ 19.000 a R$ 21.000/mês
+Lucro: ~R$ 15.500 a R$ 17.000/mês
+```
 
-**FAZER:**
-1. Analisar o que eles oferecem
-2. Identificar seus diferenciais reais
-3. Reforçar SEUS diferenciais
-4. Melhorar onde você está fraco
-5. Valorizar relacionamento com clientes
+```
+👤 DECISÃO ESTRATÉGICA: CONTRATAR 1º FUNCIONÁRIO - SUPORTE
 
-**Seus Diferenciais (sempre):**
-- Você conhece o cliente pessoalmente
-- Suporte próximo e humanizado
-- Produto já testado e validado
-- Preço competitivo
-- Flexibilidade e agilidade
+Perfil:
+  - Atendimento ao cliente
+  - Suporte técnico básico (não código)
+  - Treinamento de novos clientes
+  - Implantação do sistema
 
-**Lembrar:** Mercado é ENORME, tem espaço para vários
+Por quê contratar agora?
+  ✅ Carga operacional alta
+  ✅ Fundador precisa focar em desenvolvimento
+  ✅ Reduz risco de burnout
+  ✅ Mantém qualidade do atendimento
+  ✅ Libera tempo para estratégia
 
----
-
-## 15. CONSIDERAÇÕES FINAIS
-
-### 15.1 Mindset de Crescimento
-
-**Regras de Ouro:**
-
-1. **Paciência Estratégica**
-   - Crescimento sustentável > crescimento explosivo
-   - Cada fase tem seu tempo
-   - Não pular etapas
-
-2. **Foco no Cliente**
-   - Resolver problema real
-   - Ouvir feedback
-   - Melhorar constantemente
-   - Cliente satisfeito vende mais que ads
-
-3. **Controle Financeiro**
-   - Separação rígida PF × PJ
-   - Reserva antes de investir
-   - Gastar quando necessário, não porque sobrou
-   - Margem é mais importante que receita
-
-4. **Segurança Intelectual**
-   - Código é SEU patrimônio
-   - Nunca compartilhar
-   - IA é ferramenta, não sócio
-   - Equipe para operação, não desenvolvimento
-
-5. **Qualidade sobre Quantidade**
-   - 50 clientes satisfeitos > 100 insatisfeitos
-   - NPS alto garante crescimento
-   - Indicação é melhor marketing
+Por quê NÃO é desenvolvedor?
+  ✅ Código permanece seguro
+  ✅ Propriedade intelectual protegida
+  ✅ Sem risco de dependência técnica
+```
 
 ---
 
-### 15.2 Erros Fatais a Evitar
+### 8.5 META 4: 80 CLIENTES
 
-❌ **Contratar cedo demais**
-- Custo fixo mata startup
-- Contratar só quando doer
+```yaml
+Prazo: 9 a 10 meses (acumulado)
+Receita: ~R$ 34.000/mês
+Lucro: ~R$ 28.000/mês
 
-❌ **Crescer rápido demais**
-- Qualidade cai
-- Churn aumenta
-- Sistema não aguenta
-- Equipe não acompanha
+Situação:
+  ✔ Sistema validado e maduro
+  ✔ Suporte funcionando bem
+  ✔ Fundador focado em produto e estratégia
+  ✔ Operação escalável
 
-❌ **Misturar PF com PJ**
-- Descontrole financeiro
-- Problemas tributários
-- Impossível saber lucro real
+🔄 MUDANÇA ESTRATÉGICA: SEDE PASSA PARA GOIÂNIA
 
-❌ **Não ter reserva**
-- Qualquer imprevisto quebra
-- Estresse constante
-- Decisões ruins por desespero
+Estrutura:
+  - Goiânia: SEDE PRINCIPAL
+  - Anápolis: ESCRITÓRIO REGIONAL
 
-❌ **Guerra de preços**
-- Margem desaparece
-- Não se sustenta
-- Atrai cliente ruim
-
-❌ **Ignorar churn**
-- "Vou compensar com novos clientes"
-- Balde furado não enche
-- Resolver causa > buscar mais clientes
-
-❌ **Compartilhar código**
-- Perder controle do produto
-- Risco de roubo
-- Dependência de terceiros
+Equipe:
+  - Fundador em Goiânia
+  - 1-2 Suporte (pode ser remoto)
+  - 1 Designer de marca
+  - Operação organizada
+```
 
 ---
 
-### 15.3 Marcos de Validação
+### 8.6 Resumo da Linha do Tempo
 
-**✅ VALIDADO aos 10 clientes:**
-- Sistema funciona
-- Resolve problema real
-- Clientes pagam
-- Processo básico existe
-
-**✅ VALIDADO aos 30 clientes:**
-- Produto maduro
-- Autoridade local
-- Indicação funciona
-- Operação sem fundador possível
-
-**✅ VALIDADO aos 80 clientes:**
-- Negócio sustentável
-- Processos escaláveis
-- Equipe mínima funciona
-- Pronto para expansão nacional
+```
+┌──────────┬─────────────┬──────────────┬─────────────────────────────────┐
+│  Prazo   │    Meta     │  Receita/Mês │       Evento Principal          │
+├──────────┼─────────────┼──────────────┼─────────────────────────────────┤
+│  Agora   │  1 cliente  │    R$ 399    │  Home office                    │
+│  1 mês   │ 10 clientes │  R$ 3.990    │  Aluga sala comercial           │
+│  3 meses │ 25 clientes │  R$ 10.600   │  Processos padronizados         │
+│  6 meses │ 50 clientes │  R$ 21.000   │  1º funcionário (suporte)       │
+│ 10 meses │ 80 clientes │  R$ 34.000   │  Muda sede para Goiânia         │
+│ 12 meses │100 clientes │  R$ 42.500   │  Domínio regional GO+DF         │
+│ 18 meses │150 clientes │  R$ 63.750   │  1º estado fora (Curitiba)      │
+│ 24 meses │200 clientes │  R$ 85.000   │  Entrada SP (Campinas)          │
+│ 30 meses │250+ clientes│ R$ 106.250+  │  Consolidação nacional          │
+└──────────┴─────────────┴──────────────┴─────────────────────────────────┘
+```
 
 ---
 
-### 15.4 Quando Saber que Está no Caminho Certo
+### 8.7 Velocidade de Crescimento
 
-**Sinais Positivos:**
+```yaml
+Fase Inicial (0-50 clientes):
+  Ritmo: ~2 clientes/semana (crescimento linear)
+  Fonte: Orgânico + indicação
 
-1. **Clientes indicam espontaneamente**
-   - Melhor validação possível
-   - Marketing que se paga
+Fase Intermediária (50-120 clientes):
+  Ritmo: ~2-3 clientes/semana
+  Fonte: Marketing digital estruturado + processos otimizados
 
-2. **Churn baixo (< 5%)**
-   - Clientes satisfeitos
-   - Produto entrega valor
-
-3. **Crescimento consistente**
-   - Mês após mês
-   - Previsível e sustentável
-
-4. **Margem crescente**
-   - Operação eficiente
-   - Custos controlados
-
-5. **Você dorme tranquilo**
-   - Reserva no caixa
-   - Processos funcionam
-   - Equipe confiável
+Fase Expansão (120+ clientes):
+  Ritmo: ~3-5 clientes/semana
+  Fonte: Múltiplas regiões + equipe comercial ativa + marca consolidada
+```
 
 ---
 
-### 15.5 Revisão e Ajustes
+## 9. Estrutura de Equipe
 
-**Revisão Mensal:**
-- Todos os KPIs
-- Financeiro detalhado
-- O que funcionou / não funcionou
-- Ajustes para próximo mês
+### 9.1 Princípios Fundamentais
 
-**Revisão Trimestral:**
-- Progresso vs planejamento
-- Ajustar metas se necessário
-- Grandes decisões estratégicas
-- Investimentos maiores
-
-**Revisão Anual:**
-- Retrospectiva completa
-- Aprendizados
-- Planejamento próximo ano
-- Ajustes estruturais
+```yaml
+Regras Invioláveis:
+  ✅ Contratar apenas quando absolutamente necessário
+  ✅ Nunca contratar desenvolvedores (segurança do código)
+  ✅ PJ > CLT (flexibilidade e custos menores)
+  ✅ Presencial quando agrega valor real
+  ✅ Cada contratação deve pagar a si mesma
+```
 
 ---
 
-### 15.6 Mensagem Final
+### 9.2 Designer - Linha do Tempo
 
-Você está criando um negócio **sólido, sustentável e escalável**.
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│                     EVOLUÇÃO DO DESIGNER                            │
+├──────────────┬──────────────────────────────────────────────────────┤
+│   FASE       │   SITUAÇÃO                                           │
+├──────────────┼──────────────────────────────────────────────────────┤
+│ 0-1 (1-4)    │ ❌ NÃO - Fundador faz ajustes básicos                │
+│ 1 (5-9)      │ ✅ FREELANCER PONTUAL - R$ 300-800 por demanda       │
+│ 2 (10)       │ ✅ FREELANCER PONTUAL - R$ 500-1.000/mês (demanda)   │
+│ 3 (15)       │ ✅ PJ PRESENCIAL TEMPO INTEGRAL - R$ 3.000/mês       │
+│ 4 (20+)      │ ✅ PJ CONSOLIDADO - Ativo estratégico                │
+│ 5 (40+)      │ ✅ LIDERANÇA CRIATIVA - Padronização nacional        │
+│ 6 (80+)      │ ⚖️ AVALIAR CLT - Ou PJ com benefícios extras        │
+└──────────────┴──────────────────────────────────────────────────────┘
+```
 
-Este guia é sua **bússola**, não uma prisão. Ajuste conforme a realidade, mas mantenha os princípios fundamentais:
+```yaml
+Por que Designer PJ a partir de 15 clientes?
+  ✅ Receita aguenta (R$ 3.000 de custo)
+  ✅ Marca precisa se profissionalizar
+  ✅ UX do sistema precisa melhorar
+  ✅ Marketing digital precisa começar
+  ✅ Imagem da empresa é crítica para escala
 
-- Crescimento sustentável
-- Controle financeiro rigoroso
-- Foco no cliente
-- Segurança do código
-- Equipe enxuta e eficiente
-- Paciência estratégica
-
-**O sucesso vem de:**
-- Resolver um problema real
-- Fazer bem feito
-- Um dia de cada vez
-- Consistência > velocidade
-
----
-
-### 15.7 Recursos e Ferramentas Recomendadas
-
-**Gestão Financeira:**
-- Planilha própria (Excel/Google Sheets)
-- Plataforma de cobrança (Asaas, Vindi, Pagar.me)
-- Contador desde o dia 1
-
-**Produtividade:**
-- Notion (documentação e processos)
-- Trello (gestão de tarefas)
-- Google Workspace (email profissional)
-
-**Comunicação:**
-- WhatsApp Business
-- Discord ou Slack (equipe interna)
-
-**Marketing:**
-- Google Ads
-- Facebook/Instagram Ads
-- Canva (design simples)
-
-**Monitoramento:**
-- UptimeRobot (uptime)
-- Google Analytics (uso)
-- Sentry (erros)
-
-**Desenvolvimento:**
-- GitHub (código)
-- Claude/ChatGPT (IA produção)
-- VS Code
+Responsabilidades do Designer:
+  - Dono da identidade visual
+  - UX e UI do sistema
+  - Comunicação da marca
+  - Gestão de redes sociais
+  - Material de vendas e marketing
+  - Participação estratégica no produto
+  - Apresentações comerciais
+```
 
 ---
 
-## 📊 ANEXO: TABELAS DE REFERÊNCIA RÁPIDA
+### 9.3 Suporte/Atendimento - Linha do Tempo
 
-### Tabela 1: Evolução de Receita e Margem
-
-| Clientes | MRR | Custos | Lucro | Margem |
-|----------|-----|--------|-------|--------|
-| 10 | R$ 4.000 | R$ 1.140 | R$ 2.860 | 71,5% |
-| 20 | R$ 8.000 | R$ 1.730 | R$ 6.270 | 78,4% |
-| 30 | R$ 12.000 | R$ 2.320 | R$ 9.680 | 80,7% |
-| 50 | R$ 20.000 | R$ 3.500 | R$ 16.500 | 82,5% |
-| 80 | R$ 32.000 | R$ 5.270 | R$ 26.730 | 83,5% |
-| 100 | R$ 40.000 | R$ 6.450 | R$ 33.550 | 83,9% |
-
----
-
-### Tabela 2: Linha do Tempo Consolidada
-
-| Prazo | Clientes | MRR | Evento Chave |
-|-------|----------|-----|--------------|
-| Mês 0 | 1 | R$ 400 | Início |
-| Mês 1 | 10 | R$ 4.000 | Sala comercial |
-| Mês 3 | 25 | R$ 10.000 | Processos definidos |
-| Mês 4 | 30 | R$ 12.000 | Designer PJ |
-| Mês 6 | 50 | R$ 20.000 | 1º Suporte |
-| Mês 10 | 80 | R$ 32.000 | Sede → Goiânia |
-| Mês 15 | 120 | R$ 48.000 | GO + DF completo |
-| Mês 21 | 150 | R$ 60.000 | Curitiba (1º estado fora) |
-| Mês 30 | 200 | R$ 80.000 | Campinas (SP) |
-| Mês 36+ | 250+ | R$ 100.000+ | Nacional |
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│                     EVOLUÇÃO DO SUPORTE                             │
+├───────────────────┬─────────────────────────────────────────────────┤
+│   CLIENTES        │   ESTRUTURA                                     │
+├───────────────────┼─────────────────────────────────────────────────┤
+│ 1 a 44            │ ❌ NÃO CONTRATAR - Fundador sozinho             │
+│ 45-50             │ ✅ 1º FUNCIONÁRIO SUPORTE                       │
+│                   │    • PJ ou CLT (avaliar caso)                   │
+│                   │    • Salário: R$ 2.500 a R$ 3.500/mês           │
+│                   │    • Presencial ou remoto (flexível)            │
+├───────────────────┼─────────────────────────────────────────────────┤
+│ 80-100            │ ✅ 2 pessoas de suporte                         │
+│                   │    • 1 coordenador/líder (primeiro contratado)  │
+├───────────────────┼─────────────────────────────────────────────────┤
+│ 150+              │ ✅ Equipe de 3-4 pessoas                        │
+│                   │    • 1 Coordenador de Suporte                   │
+│                   │    • Nível 1 (básico) e Nível 2 (avançado)      │
+│                   │    • Múltiplos turnos                           │
+└───────────────────┴─────────────────────────────────────────────────┘
+```
 
 ---
 
-### Tabela 3: Estrutura de Equipe por Fase
+### 9.4 Comercial/Vendas - Linha do Tempo
 
-| Fase | Clientes | Equipe |
-|------|----------|--------|
-| 0-1 | 1-10 | Fundador solo |
-| 2 | 10-15 | Fundador + Designer freelancer |
-| 3 | 15-45 | Fundador + Designer PJ integral |
-| 4 | 45-80 | + 1 Suporte |
-| 5 | 80-120 | + 2 Suporte + 1 Comercial |
-| 6 | 120+ | + Representantes regionais |
-
----
-
-### Tabela 4: Investimento em Marketing
-
-| Fase | Clientes | Budget Mensal | Canais |
-|------|----------|---------------|--------|
-| 0-1 | 1-10 | R$ 0-200 | Indicação |
-| 2 | 10-25 | R$ 500 | Indicação + Digital básico |
-| 3 | 25-50 | R$ 1.500 | Ads + Conteúdo |
-| 4 | 50-80 | R$ 4.000 | Multi-canal Regional |
-| 5 | 80+ | R$ 8.000+ | Multi-canal Nacional |
+```
+┌───────────────────┬─────────────────────────────────────────────────┐
+│   CLIENTES        │   ESTRUTURA                                     │
+├───────────────────┼─────────────────────────────────────────────────┤
+│ 1 a 80            │ ❌ Fundador faz vendas                          │
+│                   │    • Orgânico + indicação + marketing básico    │
+├───────────────────┼─────────────────────────────────────────────────┤
+│ 80-100            │ ✅ 1º COMERCIAL: SDR/CLOSER                     │
+│                   │    • PJ + comissões                             │
+│                   │    • Fixo: R$ 2.500 + Variável: 5-10%           │
+├───────────────────┼─────────────────────────────────────────────────┤
+│ 150+              │ ✅ Estrutura Comercial                          │
+│                   │    • 1 Coordenador Comercial                    │
+│                   │    • 2-3 Vendedores/SDRs                        │
+│                   │    • Processo comercial estruturado             │
+└───────────────────┴─────────────────────────────────────────────────┘
+```
 
 ---
 
-### Tabela 5: Pró-labore e Investimentos PF
+### 9.5 Serviços Terceirizados
 
-| Clientes | Pró-labore | Reserva PF | Investimento PF |
-|----------|------------|------------|-----------------|
-| 10 | R$ 2.000 | Iniciando | ❌ |
-| 20 | R$ 2.500 | Crescendo | Iniciando |
-| 30 | R$ 3.000 | Completa | R$ 1.000/mês |
-| 40 | R$ 3.500 | Completa | R$ 1.500/mês |
-| 60 | R$ 5.000 | Completa | R$ 2.000/mês |
-| 80 | R$ 7.000 | Completa | R$ 3.000/mês |
+```yaml
+CONTADOR (OBRIGATÓRIO DESDE O INÍCIO):
+  Regime: Serviço mensal (PJ)
+  Custo: R$ 200 a R$ 400/mês
+  Responsabilidades:
+    - Emissão de notas fiscais
+    - Cálculo do Simples Nacional
+    - Obrigações acessórias
+    - Declarações fiscais
+    - Folha de pagamento
+    - Pró-labore
+
+ADVOGADO:
+  1 a 9 clientes:
+    - Pontual: Contrato SaaS, Termos de Uso, LGPD
+    - Custo: R$ 1.500 a R$ 3.000 (único)
+  
+  10 a 19 clientes:
+    - Pontual: Ajustes contratuais, dúvidas
+  
+  20+ clientes:
+    - Mensal: R$ 600 a R$ 900/mês
+    - Contratos, LGPD, cobrança, consultoria preventiva
+```
+
+---
+
+### 9.6 Resumo - Estrutura por Fase
+
+```
+┌──────────────┬─────────────┬─────────────────────────────────────────┐
+│    Fase      │  Clientes   │              Equipe                     │
+├──────────────┼─────────────┼─────────────────────────────────────────┤
+│   Início     │    1-10     │  Fundador solo                          │
+│  Validação   │   10-15     │  Fundador + Designer freelancer         │
+│ Crescimento  │   15-45     │  Fundador + Designer PJ integral        │
+│Escala Inicial│   45-80     │  Fundador + Designer + 1 Suporte        │
+│Escala Regional│  80-120    │  + 2 Suporte + 1 Comercial              │
+│Escala Nacional│   120+     │  + 3-4 Suporte + 2 Comercial + Regionais│
+└──────────────┴─────────────┴─────────────────────────────────────────┘
+
+Serviços Terceirizados (todas as fases):
+  • Contador (desde o início)
+  • Advogado pontual (início)
+  • Advogado mensal (20+ clientes)
+```
 
 ---
 
-## 🎯 CONCLUSÃO
+## 10. Planejamento Financeiro
 
-Este documento é o seu **GPS estratégico** do zero ao domínio nacional.
+### 10.1 Princípios Fundamentais
 
-**Use-o como:**
-- ✅ Guia de decisões
-- ✅ Referência para não se perder
-- ✅ Checklist de progresso
-- ✅ Bússola nos momentos difíceis
-
-**Lembre-se:**
-- Cada fase tem seu tempo
-- Paciência estratégica vence pressa
-- Cliente satisfeito é seu maior ativo
-- Margem > Receita
-- Controle financeiro é sobrevivência
-
-**Você está construindo algo real, sólido e escalável.**
-
-**Sucesso na jornada!** 🚀
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│                        REGRA DE OURO                                 │
+│                                                                      │
+│              🚫 NUNCA MISTURAR PF COM PJ                            │
+│                                                                      │
+│  ✅ Empresa paga você APENAS via pró-labore                         │
+│  ✅ Empresa investe só depois de reserva completa                   │
+│  ✅ Você investe só depois da sua reserva pessoal                   │
+│  ✅ Dois CNPJs, duas contas, duas reservas, dois investimentos      │
+│  ✅ Caixa é rei                                                      │
+│                                                                      │
+└──────────────────────────────────────────────────────────────────────┘
+```
 
 ---
+
+### 10.2 Evolução Financeira por Fase
+
+```yaml
+FASE 0: INÍCIO (1-4 clientes)
+  🏢 EMPRESA (PJ):
+    Receita: R$ 399 a R$ 1.596/mês
+    Estratégia: TODO dinheiro fica no caixa
+    Investimento: ❌ Nenhum
+    Retirada: ❌ Nenhuma
+  
+  👤 VOCÊ (PF):
+    Pró-labore: ❌ Sem pró-labore fixo
+    Sobrevivência: Reserva pessoal ou fonte externa
+
+FASE 1: PRIMEIRO EQUILÍBRIO (10 clientes)
+  🏢 EMPRESA (PJ):
+    Receita: R$ 3.990/mês
+    Reserva: R$ 500/mês (meta: 6 meses custos = ~R$ 7.000)
+    Investimento PJ: ❌ Ainda não
+  
+  👤 VOCÊ (PF):
+    Pró-labore: R$ 2.000/mês
+    Reserva: R$ 300-500/mês (meta: R$ 12.000)
+    Investimento PF: ❌ Ainda não
+
+FASE 2: CONFORTO INICIAL (20 clientes)
+  🏢 EMPRESA (PJ):
+    Receita: ~R$ 8.500/mês
+    Reserva: Continuar até completar
+    Investimento PJ: ❌ Ainda não
+  
+  👤 VOCÊ (PF):
+    Pró-labore: R$ 2.500/mês
+    Reserva: Completa até R$ 12.000
+    Investimento PF: ✅ INÍCIO (R$ 500-800/mês)
+
+FASE 3: SEGURANÇA PLENA (30 clientes)
+  🏢 EMPRESA (PJ):
+    Receita: ~R$ 13.000/mês
+    Reserva: Quase completa
+    Investimento PJ: ✅ INÍCIO (R$ 1.000-1.500/mês)
+  
+  👤 VOCÊ (PF):
+    Pró-labore: R$ 3.000/mês
+    Investimento PF: R$ 1.000+/mês
+
+FASE 4: CRESCIMENTO (40 clientes)
+  🏢 EMPRESA (PJ):
+    Receita: ~R$ 17.000/mês
+    Reserva: ✅ COMPLETA
+    Investimento PJ: Regulares e crescentes
+  
+  👤 VOCÊ (PF):
+    Pró-labore: R$ 3.500/mês
+    Investimento PF: R$ 1.500+/mês
+
+FASE 5: MATURIDADE (60 clientes)
+  🏢 EMPRESA (PJ):
+    Receita: ~R$ 25.500/mês
+    Investimento PJ: CDB robusto, caixa forte
+  
+  👤 VOCÊ (PF):
+    Pró-labore: R$ 4.500 a R$ 5.000/mês
+    Investimento PF: Crescimento agressivo
+
+FASE 6: ESCALA (80 clientes)
+  🏢 EMPRESA (PJ):
+    Receita: ~R$ 34.000/mês
+    Status: Empresa independente do fundador
+  
+  👤 VOCÊ (PF):
+    Pró-labore: R$ 6.000 a R$ 7.000/mês
+    Patrimônio: Sólido e crescente
+```
+
+---
+
+### 10.3 Tabela Resumo - Evolução PF × PJ
+
+```
+┌──────────┬────────────┬─────────────┬────────────┬──────────────┬──────────────┐
+│ Clientes │ Receita PJ │ Pró-labore  │ Reserva PJ │ Invest. PJ   │ Invest. PF   │
+├──────────┼────────────┼─────────────┼────────────┼──────────────┼──────────────┤
+│    10    │  R$ 3.990  │  R$ 2.000   │ Iniciando  │     ❌       │     ❌       │
+│    20    │  R$ 8.500  │  R$ 2.500   │ Crescendo  │     ❌       │  Iniciando   │
+│    30    │ R$ 13.000  │  R$ 3.000   │ Quase      │ Iniciando    │ R$ 1.000/mês │
+│    40    │ R$ 17.000  │  R$ 3.500   │ ✅ Completa│ R$ 1.500/mês │ R$ 1.500/mês │
+│    60    │ R$ 25.500  │  R$ 5.000   │ ✅ Completa│ R$ 3.000/mês │ R$ 2.000/mês │
+│    80    │ R$ 34.000  │  R$ 7.000   │ ✅ Completa│ R$ 5.000/mês │ R$ 3.000/mês │
+└──────────┴────────────┴─────────────┴────────────┴──────────────┴──────────────┘
+```
+
+---
+
+## 11. Estratégia de Marketing
+
+### 11.1 Princípios de Marketing
+
+```yaml
+Filosofia:
+  - Marketing deve pagar a si mesmo
+  - ROI mensurável em todas as ações
+  - Crescimento sustentável > crescimento explosivo
+  - Testar pequeno, escalar o que funciona
+  - Indicação é o melhor marketing
+```
+
+---
+
+### 11.2 Evolução por Fase
+
+```
+┌─────────┬─────────────┬──────────────┬─────────────────────────────────┐
+│  Fase   │  Clientes   │   Budget     │        Canais Principais        │
+├─────────┼─────────────┼──────────────┼─────────────────────────────────┤
+│   0-1   │    1-10     │  R$ 0-200    │  Indicação + Presencial         │
+│    2    │   10-25     │  R$ 500      │  Indicação + Digital básico     │
+│    3    │   25-50     │  R$ 1.500    │  Ads + Conteúdo                 │
+│    4    │   50-80     │  R$ 4.000    │  Multi-canal Regional           │
+│    5    │    80+      │  R$ 8.000+   │  Multi-canal Nacional           │
+└─────────┴─────────────┴──────────────┴─────────────────────────────────┘
+```
+
+---
+
+### 11.3 Programa de Indicação
+
+```yaml
+ESTRUTURA DO PROGRAMA:
+
+Para o INDICADOR (cliente atual):
+  - 1 mês grátis para cada indicação que fechar
+  - OU desconto de R$ 100 no próximo mês
+  - Sem limite de indicações
+
+Para o INDICADO (novo cliente):
+  - Desconto de 50% no primeiro mês
+  - OU implantação gratuita prioritária
+
+Regras:
+  - Indicação conta após 3 meses pagos do novo cliente
+  - Crédito não expira
+  - Pode acumular
+
+Por quê funciona:
+  ✅ Cliente satisfeito já vende naturalmente
+  ✅ Incentivo acelera o processo
+  ✅ Novo cliente chega "pré-vendido"
+  ✅ Menor CAC de todos os canais
+```
+
+---
+
+### 11.4 Posicionamento e Mensagem
+
+```yaml
+MENSAGEM PRINCIPAL:
+"O sistema completo que sua marmoraria precisa para crescer organizadamente"
+
+PILARES DE COMUNICAÇÃO:
+
+1. COMPLETUDE
+   - Tudo em um lugar
+   - Não precisa de várias ferramentas
+   - Da venda à entrega
+
+2. SIMPLICIDADE
+   - Fácil de usar
+   - Implantação rápida
+   - Não precisa ser expert em tecnologia
+
+3. SUPORTE
+   - Atendimento próximo
+   - Treinamento incluído
+   - Não te deixamos sozinho
+
+4. PREÇO
+   - Acessível para qualquer marmoraria
+   - Investimento que se paga
+   - Sem surpresas ou custos ocultos
+```
+
+---
+
+## 12. Infraestrutura Tecnológica
+
+### 12.1 Stack Tecnológico
+
+```yaml
+Frontend:
+  - React ou Vue.js (SPA moderna)
+  - TypeScript (segurança de tipos)
+  - Tailwind CSS (produtividade)
+
+Backend:
+  - Node.js ou Python
+  - API RESTful ou GraphQL
+  - Autenticação JWT
+
+Banco de Dados:
+  - PostgreSQL (principal)
+  - Redis (cache)
+
+DevOps:
+  - Git/GitHub (controle de versão)
+  - CI/CD automatizado
+  - Docker (containerização)
+```
+
+---
+
+### 12.2 Segurança
+
+```yaml
+Medidas Obrigatórias:
+
+DADOS:
+  - Criptografia em trânsito (HTTPS/SSL)
+  - Criptografia em repouso
+  - Backup automático diário
+  - Backup em região diferente
+
+ACESSO:
+  - Autenticação forte (2FA quando possível)
+  - Controle de permissões por usuário
+  - Logs de auditoria
+  - Sessões com timeout
+
+CÓDIGO:
+  - Repositório privado
+  - Acesso restrito ao fundador
+  - Backup em múltiplos locais
+  - Versionamento rigoroso
+
+LGPD:
+  - Política de privacidade clara
+  - Termo de uso
+  - Controle de consentimento
+  - Direito de portabilidade e exclusão
+```
+
+---
+
+### 12.3 Monitoramento e Performance
+
+```yaml
+Métricas Técnicas:
+
+UPTIME:
+  Meta: 99.9% (SLA)
+  Alerta: Se cair abaixo de 99%
+
+PERFORMANCE:
+  Tempo de carregamento: < 2 segundos
+  API response time: < 500ms
+  Queries otimizadas
+
+ERROS:
+  Taxa de erro: < 0.1%
+  Monitoramento de exceções
+  Logs centralizados
+
+FERRAMENTAS:
+  - UptimeRobot (monitoramento)
+  - Sentry (erro tracking)
+  - Google Analytics (uso)
+```
+
+---
+
+## 13. Processos Operacionais
+
+### 13.1 Processo de Vendas
+
+```yaml
+ETAPA 1 - LEAD ENTRA:
+  Canal: Ads, indicação, orgânico
+  Ação: Resposta em até 2 horas
+  Qualificação: Via WhatsApp
+  Próximo passo: Agendamento de demonstração
+
+ETAPA 2 - DEMONSTRAÇÃO (30-45 min):
+  1. Apresentação (5 min)
+  2. Entender dores do cliente (10 min)
+  3. Demonstração focada nas dores (20 min)
+  4. Perguntas e objeções (10 min)
+  5. Próximos passos
+
+ETAPA 3 - PROPOSTA:
+  Envio: Imediato após demonstração
+  Conteúdo: Valor, incluso, processo, suporte, link
+
+ETAPA 4 - FECHAMENTO:
+  Follow-up: 24h, 48h, 1 semana
+  Gatilhos: Desconto 1º mês, implantação prioritária
+```
+
+---
+
+### 13.2 Processo de Implantação
+
+```yaml
+FASE 1 - ONBOARDING (DIA 0) - 1 hora:
+  - Criar conta do cliente
+  - Configurações iniciais
+  - Enviar credenciais
+  - Agendar treinamento
+
+FASE 2 - TREINAMENTO (DIAS 1-3) - 2-3 horas:
+  Módulos:
+    1. Cadastros básicos
+    2. Criação de orçamentos
+    3. Controle de estoque
+    4. Financeiro básico
+    5. Relatórios principais
+  
+  Formato: Presencial ou remoto (TeamViewer/AnyDesk)
+  Extra: Gravar sessão + Material PDF
+
+FASE 3 - ACOMPANHAMENTO (DIAS 4-14):
+  - Disponibilidade alta
+  - Resolução rápida de dúvidas
+  - Ajustes finos
+  - Check-in proativo (dia 7 e dia 14)
+
+FASE 4 - CLIENTE ATIVO (DIA 15+):
+  - Transição para suporte normal
+  - Suporte sob demanda
+  - Check-in mensal (opcional)
+```
+
+---
+
+### 13.3 Processo de Suporte
+
+```yaml
+CANAIS:
+  WhatsApp Business: Principal (resposta em até 4h)
+  Email: Secundário (resposta em até 24h)
+  Telefone: Urgências (horário comercial)
+
+CLASSIFICAÇÃO DE CHAMADOS:
+  P0 - CRÍTICO (Sistema parado):
+    Resposta: Imediata | Resolução: Máximo 4h
+  
+  P1 - ALTO (Funcionalidade crítica):
+    Resposta: 2h | Resolução: Até 24h
+  
+  P2 - MÉDIO (Funcionalidade secundária):
+    Resposta: 4h | Resolução: 2-3 dias
+  
+  P3 - BAIXO (Dúvidas, melhorias):
+    Resposta: 8h | Resolução: Conforme roadmap
+
+SLA:
+  Disponibilidade: 99.9% uptime/mês
+  Horário: Seg-Sex 8h-18h, Sáb 8h-12h
+  Emergências P0: Domingo/feriado
+```
+
+---
+
+### 13.4 Processo de Cobrança
+
+```yaml
+COBRANÇA MENSAL:
+  Vencimento: Dia fixo (definido na contratação)
+  Meios: PIX (preferencial), Boleto, Cartão
+  NF: Automática após pagamento confirmado
+
+INADIMPLÊNCIA:
+  Dia 0: Lembrete automático
+  Dia +1: Primeiro aviso
+  Dia +3: Segundo aviso (WhatsApp)
+  Dia +7: Bloqueio (apenas visualização)
+  Dia +15: Cobrança extrajudicial
+  Dia +30: Cancelamento (backup 90 dias)
+```
+
+---
+
+## 14. KPIs e Métricas
+
+### 14.1 KPIs Financeiros
+
+```yaml
+MRR (Monthly Recurring Revenue):
+  Fórmula: Número de clientes × Ticket Médio
+  Metas:
+    - 10 clientes: R$ 3.990 MRR
+    - 25 clientes: R$ 10.600 MRR
+    - 50 clientes: R$ 21.250 MRR
+    - 80 clientes: R$ 34.000 MRR
+    - 100 clientes: R$ 42.500 MRR
+
+Churn Rate (Taxa de Cancelamento):
+  Fórmula: (Clientes perdidos / Total início) × 100
+  Meta Ideal: < 5% ao mês
+  Aceitável: 5-8% ao mês
+  Crítico: > 10% ao mês
+
+CAC (Custo de Aquisição de Cliente):
+  Fórmula: Total marketing e vendas / Novos clientes
+  Meta por Fase:
+    - Início (indicação): R$ 0-50
+    - Crescimento (ads): R$ 200-400
+    - Escala: R$ 300-500
+  Regra: CAC < 3× mensalidade (~R$ 1.200)
+
+LTV (Lifetime Value):
+  Fórmula: (Ticket × Tempo permanência) - CAC
+  Exemplo: R$ 425 × 24 meses = R$ 10.200
+  Meta: LTV/CAC > 3:1 (idealmente 5:1)
+```
+
+---
+
+### 14.2 KPIs Operacionais
+
+```yaml
+Tempo Médio de Implantação:
+  Meta: 7-14 dias (pagamento → uso pleno)
+
+NPS (Net Promoter Score):
+  Pergunta: "De 0 a 10, quanto você recomendaria?"
+  Classificação:
+    - 9-10: Promotores
+    - 7-8: Neutros
+    - 0-6: Detratores
+  Fórmula: % Promotores - % Detratores
+  Meta: > 50 (Excelente)
+
+Taxa de Conversão (Lead → Cliente):
+  Início (indicação): 40-60%
+  Crescimento (ads): 20-30%
+  Escala (mix): 25-35%
+
+Uptime do Sistema:
+  Meta: 99.9% (máx 43 min downtime/mês)
+```
+
+---
+
+## 15. Gestão de Riscos
+
+### 15.1 Riscos Técnicos
+
+```yaml
+RISCO: Sistema fora do ar
+  Probabilidade: Média | Impacto: ALTO
+  Mitigação:
+    - Monitoramento 24/7
+    - Alertas automáticos
+    - Backup diário
+    - Plano de recuperação documentado
+    - Servidor redundante (conforme crescimento)
+
+RISCO: Perda de dados
+  Probabilidade: Baixa | Impacto: CRÍTICO
+  Mitigação:
+    - Backup diário automático
+    - Backup em região diferente
+    - Teste de restauração mensal
+    - Versionamento de banco
+    - Logs de auditoria
+
+RISCO: Ataque cibernético
+  Probabilidade: Média | Impacto: ALTO
+  Mitigação:
+    - Criptografia forte
+    - Autenticação robusta
+    - Firewall configurado
+    - Updates de segurança regulares
+```
+
+---
+
+### 15.2 Riscos de Negócio
+
+```yaml
+RISCO: Churn alto (> 10%)
+  Mitigação:
+    - Onboarding excelente
+    - Suporte proativo
+    - Medir NPS regularmente
+    - Melhorar produto constantemente
+
+RISCO: Concorrente forte entra
+  Mitigação:
+    - Ser o primeiro e melhor
+    - Relacionamento forte com clientes
+    - Produto superior
+    - Suporte diferenciado
+    - Inovação constante
+
+RISCO: Crescimento muito rápido
+  Sinais de alerta:
+    - Suporte sobrecarregado
+    - Bugs aumentando
+    - Clientes insatisfeitos
+    - Fundador esgotado
+  Ação: DESACELERAR se necessário
+```
+
+---
+
+### 15.3 Riscos Pessoais (Fundador)
+
+```yaml
+RISCO: Burnout
+  Probabilidade: ALTA | Impacto: CRÍTICO
+  
+  Sinais de Alerta:
+    - Trabalhar 7 dias/semana
+    - Não tirar folga há meses
+    - Exaustão mental
+    - Qualidade caindo
+    - Decisões ruins
+  
+  Mitigação:
+    - Trabalhar 6 dias MAX (folgar 1 dia)
+    - Tirar 1 semana a cada 3-4 meses
+    - Delegar quando possível
+    - Contratar suporte cedo (45 clientes)
+    - Exercício físico regular
+    - Dormir bem
+  
+  Plano de Emergência:
+    - Sistema deve funcionar sem você por 1 semana
+    - Documentação completa
+    - Equipe treinada
+```
+
+---
+
+## 16. Plano de Contingência
+
+### 16.1 Se o Sistema Cair
+
+```yaml
+Primeiros 15 minutos:
+  1. Confirmar se realmente está fora
+  2. Verificar logs e monitoramento
+  3. Identificar causa
+
+Comunicação Imediata:
+  - Post no Instagram/Facebook
+  - Mensagem no grupo de WhatsApp
+  - Email para todos os clientes
+
+Mensagem Modelo:
+  "Identificamos instabilidade no sistema às [HORA].
+   Estamos trabalhando para normalizar o mais rápido possível.
+   Previsão: [TEMPO]
+   Atualizações a cada hora."
+
+Resolução:
+  - Restaurar de backup se necessário
+  - Documentar causa e solução
+  - Post-mortem em 24h
+  - Implementar correção permanente
+```
+
+---
+
+### 16.2 Se Caixa Apertar
+
+```yaml
+PRIORIDADES (nesta ordem):
+
+1. MANTER SISTEMA NO AR
+   - Pagar hospedagem
+   - Pagar IA (essencial)
+
+2. MANTER CLIENTES ATIVOS
+   - Suporte básico
+   - Correção de bugs críticos
+
+3. CORTAR GASTOS NÃO ESSENCIAIS
+   - Pausar marketing
+   - Adiar contratações
+   - Reduzir escritório
+   - Negociar com fornecedores
+
+4. AUMENTAR RECEITA RÁPIDO
+   - Reativar clientes antigos
+   - Cobrar inadimplentes
+   - Oferta especial (desconto anual)
+   - Buscar indicações agressivamente
+
+5. PRÓ-LABORE PESSOAL
+   - Reduzir ao mínimo sobrevivência
+   - Usar reserva pessoal se necessário
+
+❌ NUNCA:
+   - Deixar de pagar impostos
+   - Deixar de pagar fornecedores críticos
+   - Contrair dívidas de alta taxa
+```
+
+---
+
+## 17. Tabelas de Referência
+
+### 17.1 Evolução de Receita e Margem
+
+```
+┌──────────┬──────────────┬────────────┬────────────┬─────────┐
+│ Clientes │     MRR      │   Custos   │   Lucro    │ Margem  │
+├──────────┼──────────────┼────────────┼────────────┼─────────┤
+│    10    │   R$ 3.990   │  R$ 1.100  │  R$ 2.890  │  72,4%  │
+│    20    │   R$ 8.500   │  R$ 1.800  │  R$ 6.700  │  78,8%  │
+│    30    │  R$ 13.000   │  R$ 2.400  │ R$ 10.600  │  81,5%  │
+│    50    │  R$ 21.250   │  R$ 3.700  │ R$ 17.550  │  82,6%  │
+│    80    │  R$ 34.000   │  R$ 5.500  │ R$ 28.500  │  83,8%  │
+│   100    │  R$ 42.500   │  R$ 6.800  │ R$ 35.700  │  84,0%  │
+└──────────┴──────────────┴────────────┴────────────┴─────────┘
+```
+
+---
+
+### 17.2 Linha do Tempo Consolidada
+
+```
+┌──────────┬─────────────┬──────────────┬─────────────────────────────────┐
+│  Prazo   │  Clientes   │     MRR      │       Evento Chave              │
+├──────────┼─────────────┼──────────────┼─────────────────────────────────┤
+│  Mês 0   │      1      │    R$ 399    │  Início                         │
+│  Mês 1   │     10      │  R$ 3.990    │  Sala comercial                 │
+│  Mês 3   │     25      │ R$ 10.600    │  Processos definidos            │
+│  Mês 4   │     30      │ R$ 13.000    │  Designer PJ                    │
+│  Mês 6   │     50      │ R$ 21.250    │  1º Suporte                     │
+│  Mês 10  │     80      │ R$ 34.000    │  Sede → Goiânia                 │
+│  Mês 15  │    120      │ R$ 51.000    │  GO + DF completo               │
+│  Mês 21  │    150      │ R$ 63.750    │  Curitiba (1º estado fora)      │
+│  Mês 30  │    200      │ R$ 85.000    │  Campinas (SP)                  │
+│  Mês 36+ │    250+     │R$ 106.250+   │  Nacional                       │
+└──────────┴─────────────┴──────────────┴─────────────────────────────────┘
+```
+
+---
+
+### 17.3 Checklist de Validação
+
+```yaml
+✅ VALIDADO aos 10 clientes:
+  - Sistema funciona
+  - Resolve problema real
+  - Clientes pagam
+  - Processo básico existe
+
+✅ VALIDADO aos 30 clientes:
+  - Produto maduro
+  - Autoridade local
+  - Indicação funciona
+  - Operação sem fundador possível
+
+✅ VALIDADO aos 80 clientes:
+  - Negócio sustentável
+  - Processos escaláveis
+  - Equipe mínima funciona
+  - Pronto para expansão nacional
+```
+
+---
+
+## 📊 Conclusão
+
+Este documento é o **GPS estratégico** do zero ao domínio nacional.
+
+```
+USE COMO:
+  ✅ Guia de decisões
+  ✅ Referência para não se perder
+  ✅ Checklist de progresso
+  ✅ Bússola nos momentos difíceis
+
+LEMBRE-SE:
+  • Cada fase tem seu tempo
+  • Paciência estratégica vence pressa
+  • Cliente satisfeito é seu maior ativo
+  • Margem > Receita
+  • Controle financeiro é sobrevivência
+```
+
+---
+
+<div align="center">
 
 **Paulo Muniz - Fundador**  
-**Data de criação deste plano:** Dezembro 2024  
+**Data de criação:** Dezembro 2024  
 **Revisão sugerida:** Trimestral
 
 ---
 
-*FIM DO DOCUMENTO*
+*Este é um documento vivo. Ajuste conforme a realidade, mas mantenha os princípios fundamentais.*
+
+🚀 **Sucesso na jornada!**
+
+</div>
