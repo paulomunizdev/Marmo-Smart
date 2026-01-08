@@ -265,7 +265,7 @@ O MarmoSmart oferece **16 módulos integrados** que cobrem todas as áreas da su
 |--|:--:|:--:|:--:|:--:|
 | **Preço** | R$ 399/mês | R$ 499/mês | R$ 599/mês | R$ 799/mês |
 | **Armazenamento** | 50 GB | 100 GB | 200 GB | 300 GB |
-| **vCPUs** | 3 | 3 | 4 | 4 |
+| **CPUs** | 3 | 3 | 4 | 4 |
 | **RAM** | 3 GB | 4 GB | 5 GB | 6 GB |
 | **Usuários** | ∞ Ilimitados | ∞ Ilimitados | ∞ Ilimitados | ∞ Ilimitados |
 | **Funcionalidades** | ✅ Todas | ✅ Todas | ✅ Todas | ✅ Todas |
