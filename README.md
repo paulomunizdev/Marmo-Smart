@@ -5,7 +5,7 @@
 ### Sistema Inteligente de Gestão para Marmorarias
 
 [![Status](https://img.shields.io/badge/Status-Produção-success?style=for-the-badge)](https://marmosmart.com.br)
-[![Versão](https://img.shields.io/badge/Versão-2.0-blue?style=for-the-badge)](https://marmosmart.com.br)
+[![Versão](https://img.shields.io/badge/Versão-1.0-blue?style=for-the-badge)](https://marmosmart.com.br)
 [![Licença](https://img.shields.io/badge/Licença-Proprietária-red?style=for-the-badge)](LICENSE)
 
 **O sistema completo que sua marmoraria precisa para crescer organizadamente**
