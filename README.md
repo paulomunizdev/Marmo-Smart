@@ -14,7 +14,7 @@
 
 ---
 
-<img src="[https://i.imgur.com/kFoCDnZ.png](https://i.imgur.com/sRSCTrT.png)" alt="MarmoSmart Logo" width="200"/>
+<img src="[[https://i.imgur.com/kFoCDnZ.png]([https://i.imgur.com/sRSCTrT.png](https://i.imgur.com/sRSCTrT.png)](https://i.imgur.com/sRSCTrT.png))" alt="MarmoSmart Logo" width="200"/>
 
 </div>
 
