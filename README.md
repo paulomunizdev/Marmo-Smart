@@ -14,12 +14,6 @@
 
 ---
 
-<img src="[[https://i.imgur.com/kFoCDnZ.png]([https://i.imgur.com/sRSCTrT.png](https://i.imgur.com/sRSCTrT.png)](https://i.imgur.com/sRSCTrT.png))" alt="MarmoSmart Logo" width="200"/>
-
-</div>
-
----
-
 ## 📋 Índice
 
 - [Sobre o MarmoSmart](#-sobre-o-marmosmart)
@@ -134,7 +128,7 @@ O MarmoSmart oferece **16 módulos integrados** que cobrem todas as áreas da su
 ### 📝 Orçamentos Profissionais
 
 ```
-✅ Numeração automática sequencial (000001/2024)
+✅ Numeração automática sequencial (000001/2026)
 ✅ Vinculação obrigatória com cliente cadastrado
 ✅ Múltiplos itens com cálculo automático
 ✅ Desconto por item e desconto total
@@ -618,15 +612,12 @@ Desenvolvedor Full Stack | Especialista em Sistemas para Marmorarias
 
 ```
 MarmoSmart - Sistema de Gestão para Marmorarias
-© 2024 - Todos os direitos reservados
+© 2026 - Todos os direitos reservados
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-CNAE: 62.03-1/00 
-Desenvolvimento e licenciamento de programas de computador não-customizáveis
-
 Modelo de Negócio: SaaS (Software as a Service)
-Tipo de Software: Software Padronizado (Prateleira)
+Tipo de Software: Software Padronizado
 Natureza: Licença de Uso
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -664,6 +655,6 @@ O MarmoSmart é tudo que você precisa em um só lugar.
 
 <sub>Feito com 💎 para marmorarias de todo o Brasil</sub>
 
-<sub>MarmoSmart © 2024 - Todos os direitos reservados</sub>
+<sub>MarmoSmart © 2026 - Todos os direitos reservados</sub>
 
 </div>
